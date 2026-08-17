@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_noose",
+  "title": "The Noose",
+  "start_year": 2007,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q7754302",
+    "imdb": "tt7527436",
+    "tmdb": 32845
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 40
+}

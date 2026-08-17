@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_neues_aus_der_anstalt",
+  "title": "Neues aus der Anstalt",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1980445",
+    "imdb": "tt0956324",
+    "tmdb": 30812
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 62
+}

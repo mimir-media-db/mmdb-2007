@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_nearly_famous",
+  "title": "Nearly Famous",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q6984439",
+    "imdb": "tt1090020",
+    "tmdb": 15947
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

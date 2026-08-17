@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_nasa_mala_klinika",
+  "title": "Naša mala klinika",
+  "start_year": 2007,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q1567454",
+    "imdb": "tt1267312"
+  },
+  "last_updated": "2026-08-17"
+}

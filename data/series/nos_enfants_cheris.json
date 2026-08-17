@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_nos_enfants_cheris",
+  "title": "Nos enfants chéris",
+  "start_year": 2007,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q3344303",
+    "imdb": "tt0857347",
+    "tmdb": 98597
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 24
+}

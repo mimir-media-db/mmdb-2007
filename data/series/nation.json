@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_nation",
+  "title": "The Nation",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q7753132",
+    "imdb": "tt1031827",
+    "tmdb": 4815
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 13
+}
