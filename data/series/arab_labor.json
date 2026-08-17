@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_arab_labor",
+  "title": "Arab Labor",
+  "start_year": 2006,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q2859325",
+    "imdb": "tt0904447",
+    "tmdb": 75576
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 43
+}

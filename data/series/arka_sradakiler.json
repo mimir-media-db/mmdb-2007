@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_arka_sradakiler",
+  "title": "Arka Sıradakiler",
+  "start_year": 2006,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q4791649",
+    "imdb": "tt1289683",
+    "tmdb": 17489
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 193
+}

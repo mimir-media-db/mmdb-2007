@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_adventures_in_hollyhood",
+  "title": "Adventures in Hollyhood",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q4686607",
+    "imdb": "tt0876295",
+    "tmdb": 3915
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

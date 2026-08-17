@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_are_you_smarter_than_a_5th_grader",
+  "title": "Are You Smarter than a 5th Grader?",
+  "start_year": 2007,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q3045566",
+    "imdb": "tt0958228",
+    "tmdb": 5592
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 98
+}

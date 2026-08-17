@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_american_greed",
+  "title": "American Greed",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4743930",
+    "imdb": "tt1190931",
+    "tmdb": 21572
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 15,
+  "total_episodes": 222
+}

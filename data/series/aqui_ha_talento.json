@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_aqui_ha_talento",
+  "title": "Aqui há talento",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q4782869",
+    "imdb": "tt0968783",
+    "tmdb": 33027
+  },
+  "last_updated": "2026-08-17"
+}

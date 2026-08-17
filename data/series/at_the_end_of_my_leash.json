@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_at_the_end_of_my_leash",
+  "title": "At the End of My Leash",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4812502",
+    "imdb": "tt0986337",
+    "tmdb": 15959
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 78
+}

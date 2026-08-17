@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_art_of_the_heist",
+  "title": "Art of the Heist",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q99736161",
+    "imdb": "tt5705416",
+    "tmdb": 103533
+  },
+  "last_updated": "2026-08-17"
+}

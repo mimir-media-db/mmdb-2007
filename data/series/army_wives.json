@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_army_wives",
+  "title": "Army Wives",
+  "start_year": 2007,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q2308037",
+    "imdb": "tt0859592",
+    "tmdb": 5325
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 117
+}

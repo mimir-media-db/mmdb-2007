@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_amazing_race_a_corrida_milionaria",
+  "title": "The Amazing Race: A Corrida Milionária",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1067985",
+    "imdb": "tt1139830",
+    "tmdb": 4770
+  },
+  "last_updated": "2026-08-17"
+}

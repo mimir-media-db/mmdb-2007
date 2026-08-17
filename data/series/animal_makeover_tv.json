@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_animal_makeover_tv",
+  "title": "Animal Makeover TV",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4764847",
+    "imdb": "tt1029512"
+  },
+  "last_updated": "2026-08-17"
+}
