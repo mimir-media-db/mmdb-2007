@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_afr_2007",
+  "title": "AFR",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1762519",
+    "imdb": "tt0369878",
+    "tmdb": 15820
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 87
+}

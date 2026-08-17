@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_arctic_tale_2007",
+  "title": "Arctic Tale",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1796193",
+    "imdb": "tt0488508",
+    "tmdb": 4658
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 90
+}

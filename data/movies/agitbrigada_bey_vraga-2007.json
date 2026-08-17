@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_agitbrigada_bey_vraga_2007",
+  "title": "Agitbrigada 'Bey vraga!'",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4056946",
+    "imdb": "tt1153032",
+    "tmdb": 63870
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 122
+}

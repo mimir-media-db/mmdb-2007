@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_at_the_bar_2007",
+  "title": "At the Bar",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2884335",
+    "imdb": "tt0902955",
+    "tmdb": 27721
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

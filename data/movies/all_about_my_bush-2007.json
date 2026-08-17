@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_all_about_my_bush_2007",
+  "title": "All About My Bush",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2101455",
+    "imdb": "tt0951368",
+    "tmdb": 72426
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 97
+}

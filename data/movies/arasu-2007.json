@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_arasu_2007",
+  "title": "Arasu",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4784400",
+    "imdb": "tt2170285",
+    "tmdb": 691310
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 152
+}

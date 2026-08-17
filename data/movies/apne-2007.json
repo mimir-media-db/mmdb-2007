@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_apne_2007",
+  "title": "Apne",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4780033",
+    "imdb": "tt0814014",
+    "tmdb": 60124
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

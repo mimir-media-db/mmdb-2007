@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_anita_oday_the_life_of_a_jazz_singer_2007",
+  "title": "Anita O'Day: The Life of a Jazz Singer",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4765594",
+    "imdb": "tt0843838",
+    "tmdb": 139854
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 90
+}
