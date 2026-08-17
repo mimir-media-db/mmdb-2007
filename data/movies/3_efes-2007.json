@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_3_efes_2007",
+  "title": "3 Efes",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9552740",
+    "imdb": "tt1090295",
+    "tmdb": 321189
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 100
+}
