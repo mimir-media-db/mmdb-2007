@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_bror_syster",
+  "title": "Bror & syster",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q10436124",
+    "imdb": "tt1251849",
+    "tmdb": 203851
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 3
+}

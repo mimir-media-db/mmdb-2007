@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bionic_woman",
+  "title": "Bionic Woman",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q864635",
+    "imdb": "tt0880557",
+    "tmdb": 1246
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

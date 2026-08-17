@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_big_questions",
+  "title": "The Big Questions",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7717759",
+    "imdb": "tt1102520",
+    "tmdb": 15437
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 10
+}

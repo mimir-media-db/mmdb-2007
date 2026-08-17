@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_bad_couple",
+  "title": "Bad Couple",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q10868930"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

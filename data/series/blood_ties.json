@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_blood_ties",
+  "title": "Blood Ties",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q885157",
+    "imdb": "tt0808013",
+    "tmdb": 5100
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 22
+}

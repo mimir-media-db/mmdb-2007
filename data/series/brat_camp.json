@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_brat_camp",
+  "title": "Brat Camp",
+  "start_year": 2007,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q99199719",
+    "imdb": "tt0976083"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 31
+}

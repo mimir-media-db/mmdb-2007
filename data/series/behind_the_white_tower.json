@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_behind_the_white_tower",
+  "title": "Behind the White Tower",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q492984",
+    "imdb": "tt6357280",
+    "tmdb": 5292
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 20
+}

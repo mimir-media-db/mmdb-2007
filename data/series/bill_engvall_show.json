@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bill_engvall_show",
+  "title": "The Bill Engvall Show",
+  "start_year": 2007,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q7717984",
+    "imdb": "tt0926732",
+    "tmdb": 2647
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 30
+}

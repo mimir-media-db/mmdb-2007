@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bear_behaving_badly",
+  "title": "Bear Behaving Badly",
+  "start_year": 2007,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q2263279",
+    "imdb": "tt1179798",
+    "tmdb": 14845
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 78
+}

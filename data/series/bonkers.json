@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_bonkers",
+  "title": "Bonkers",
+  "start_year": 2007,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q4942128",
+    "imdb": "tt0884765",
+    "tmdb": 20559
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_bought_sold",
+  "title": "Bought & Sold",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4949409",
+    "imdb": "tt1020911"
+  },
+  "last_updated": "2026-08-17"
+}

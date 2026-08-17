@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_britains_best_dish",
+  "title": "Britain's Best Dish",
+  "start_year": 2007,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q4969206",
+    "imdb": "tt1397116",
+    "tmdb": 14256
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 229
+}
