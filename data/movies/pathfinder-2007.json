@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pathfinder_2007",
+  "title": "Pathfinder",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q771792",
+    "imdb": "tt0446013",
+    "tmdb": 1534
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-04-13",
+  "runtime_minutes": 99
+}

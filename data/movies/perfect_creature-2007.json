@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_perfect_creature_2007",
+  "title": "Perfect Creature",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2318289",
+    "imdb": "tt0403407",
+    "tmdb": 18726
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-08-16",
+  "runtime_minutes": 88
+}

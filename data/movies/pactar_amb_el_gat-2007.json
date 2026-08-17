@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pactar_amb_el_gat_2007",
+  "title": "Pactar amb el gat",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6056990",
+    "imdb": "tt0765130",
+    "tmdb": 149861
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-09-07",
+  "runtime_minutes": 100
+}

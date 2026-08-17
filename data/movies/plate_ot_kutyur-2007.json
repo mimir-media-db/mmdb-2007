@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_plate_ot_kutyur_2007",
+  "title": "Plate ot kutyur",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139575576",
+    "imdb": "tt4528882",
+    "tmdb": 619823
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 90
+}

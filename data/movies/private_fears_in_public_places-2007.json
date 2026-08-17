@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_private_fears_in_public_places_2007",
+  "title": "Private Fears in Public Places",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q573837",
+    "imdb": "tt0498120",
+    "tmdb": 24170
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-03-29",
+  "runtime_minutes": 120
+}

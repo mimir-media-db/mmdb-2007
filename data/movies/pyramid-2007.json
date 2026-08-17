@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pyramid_2007",
+  "title": "The Pyramid",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10647242",
+    "imdb": "tt1147764",
+    "tmdb": 267048
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 88
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_papelucho_and_the_martian_2007",
+  "title": "Papelucho and the Martian",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6060141",
+    "imdb": "tt1247268",
+    "tmdb": 37002
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-05-17",
+  "runtime_minutes": 80
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_point_of_view_2007",
+  "title": "Point of View",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18693380",
+    "imdb": "tt1280701"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

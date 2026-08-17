@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pursuit_of_happyness_2007",
+  "title": "The Pursuit of Happyness",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q220515",
+    "imdb": "tt0454921",
+    "tmdb": 1402
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-18",
+  "runtime_minutes": 113
+}
