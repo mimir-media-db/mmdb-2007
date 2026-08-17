@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hermanos_y_detectives",
+  "title": "Hermanos y detectives",
+  "start_year": 2007,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q2877305",
+    "imdb": "tt1060067",
+    "tmdb": 38625
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 26
+}

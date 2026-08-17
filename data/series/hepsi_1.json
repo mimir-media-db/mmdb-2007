@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_hepsi_1",
+  "title": "Hepsi 1",
+  "start_year": 2007,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q6073323",
+    "imdb": "tt1173670"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 51
+}

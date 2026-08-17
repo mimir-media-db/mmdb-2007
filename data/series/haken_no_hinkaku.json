@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_haken_no_hinkaku",
+  "title": "Haken no Hinkaku",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5368367",
+    "imdb": "tt0997022",
+    "tmdb": 37425
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 18
+}

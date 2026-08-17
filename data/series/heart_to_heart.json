@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_heart_to_heart",
+  "title": "Heart to Heart",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5692494",
+    "imdb": "tt1227804",
+    "tmdb": 36442
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 17
+}

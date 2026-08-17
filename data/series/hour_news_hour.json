@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_hour_news_hour",
+  "title": "The ½ Hour News Hour",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q7711721",
+    "imdb": "tt0887788",
+    "tmdb": 4216
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 17
+}

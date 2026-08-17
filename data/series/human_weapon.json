@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_human_weapon",
+  "title": "Human Weapon",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q281154",
+    "imdb": "tt1083163",
+    "tmdb": 6699
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}
