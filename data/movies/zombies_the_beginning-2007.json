@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zombies_the_beginning_2007",
+  "title": "Zombies – The Beginning",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q219807",
+    "imdb": "tt1043585",
+    "tmdb": 105989
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 91
+}
