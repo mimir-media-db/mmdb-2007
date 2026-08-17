@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_license_to_wed_2007",
+  "title": "License to Wed",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q368674",
+    "imdb": "tt0762114",
+    "tmdb": 2959
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-07-03",
+  "runtime_minutes": 91
+}

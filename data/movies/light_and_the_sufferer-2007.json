@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_light_and_the_sufferer_2007",
+  "title": "Light and the Sufferer",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12125726",
+    "imdb": "tt0362822",
+    "tmdb": 267060
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 70
+}

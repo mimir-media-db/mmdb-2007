@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_live_free_or_die_hard_2007",
+  "title": "Live Free or Die Hard",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50861",
+    "imdb": "tt0337978",
+    "tmdb": 1571
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-06-27",
+  "runtime_minutes": 128
+}

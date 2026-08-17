@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lilacs_2007",
+  "title": "Lilacs",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4109993",
+    "imdb": "tt0804500",
+    "tmdb": 410141
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-06-22",
+  "runtime_minutes": 97
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_last_2007",
+  "title": "The Last",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20072822",
+    "imdb": "tt0929239",
+    "tmdb": 55173
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

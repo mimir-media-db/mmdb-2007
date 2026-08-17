@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_matinee_2007",
+  "title": "La matinée",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17478102",
+    "imdb": "tt2384958",
+    "tmdb": 638607
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

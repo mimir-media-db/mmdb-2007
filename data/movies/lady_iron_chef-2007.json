@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lady_iron_chef_2007",
+  "title": "The Lady Iron Chef",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7745129",
+    "imdb": "tt0989681",
+    "tmdb": 40005
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}
