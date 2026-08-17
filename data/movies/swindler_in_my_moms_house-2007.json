@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_swindler_in_my_moms_house_2007",
+  "title": "Swindler In My Mom's House",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17487203",
+    "imdb": "tt1468365",
+    "tmdb": 52586
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-08-22"
+}

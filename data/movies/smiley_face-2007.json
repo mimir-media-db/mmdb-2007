@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_smiley_face_2007",
+  "title": "Smiley Face",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q959483",
+    "imdb": "tt0780608",
+    "tmdb": 13168
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-21",
+  "runtime_minutes": 88
+}

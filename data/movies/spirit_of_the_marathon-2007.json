@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spirit_of_the_marathon_2007",
+  "title": "Spirit of the Marathon",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7578034",
+    "imdb": "tt0960792",
+    "tmdb": 27907
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 104
+}

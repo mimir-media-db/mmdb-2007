@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sillys_sweet_summer_2007",
+  "title": "Silly's Sweet Summer",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q887113",
+    "imdb": "tt0825745",
+    "tmdb": 10812
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-02-10",
+  "runtime_minutes": 95
+}

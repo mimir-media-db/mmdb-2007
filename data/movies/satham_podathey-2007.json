@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_satham_podathey_2007",
+  "title": "Satham Podathey",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7426119",
+    "imdb": "tt1507349",
+    "tmdb": 112235
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

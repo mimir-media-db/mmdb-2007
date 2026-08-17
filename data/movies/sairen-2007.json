@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sairen_2007",
+  "title": "Sairen",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11487999",
+    "imdb": "tt1950333",
+    "tmdb": 626060
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

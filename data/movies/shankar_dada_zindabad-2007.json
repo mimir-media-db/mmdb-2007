@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shankar_dada_zindabad_2007",
+  "title": "Shankar Dada Zindabad",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7488680",
+    "imdb": "tt0944233",
+    "tmdb": 63811
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

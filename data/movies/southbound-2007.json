@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_southbound_2007",
+  "title": "Southbound",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11304292",
+    "imdb": "tt1073545",
+    "tmdb": 130221
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}
