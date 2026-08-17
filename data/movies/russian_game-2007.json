@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_russian_game_2007",
+  "title": "The Russian Game",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4400475",
+    "imdb": "tt1140871",
+    "tmdb": 133684
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-10-04",
+  "runtime_minutes": 95
+}

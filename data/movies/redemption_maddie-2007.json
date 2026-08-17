@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_redemption_maddie_2007",
+  "title": "Redemption Maddie",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7305763",
+    "imdb": "tt0890881",
+    "tmdb": 1692185
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}
