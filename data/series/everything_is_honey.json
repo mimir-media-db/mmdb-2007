@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_everything_is_honey",
+  "title": "Everything Is Honey",
+  "start_year": 2006,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q7061426",
+    "imdb": "tt1076406",
+    "tmdb": 51003
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_ein_fall_fur_nadja",
+  "title": "Ein Fall für Nadja",
+  "start_year": 2007,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q110300805",
+    "imdb": "tt1121902",
+    "tmdb": 63026
+  },
+  "last_updated": "2026-08-17"
+}

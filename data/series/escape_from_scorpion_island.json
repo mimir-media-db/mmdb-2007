@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_escape_from_scorpion_island",
+  "title": "Escape from Scorpion Island",
+  "start_year": 2007,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q3754048",
+    "imdb": "tt1104916",
+    "tmdb": 6796
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 19
+}

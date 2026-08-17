@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_el_club_de_la_comedia",
+  "title": "El club de la comedia",
+  "start_year": 2007,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q5824376",
+    "imdb": "tt2090852",
+    "tmdb": 98654
+  },
+  "last_updated": "2026-08-17"
+}

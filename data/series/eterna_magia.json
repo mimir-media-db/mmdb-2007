@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_eterna_magia",
+  "title": "Eterna Magia",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3286008",
+    "imdb": "tt0997019",
+    "tmdb": 42935
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 148
+}

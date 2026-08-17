@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_eesti_otsib_superstaari",
+  "title": "Eesti otsib superstaari",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q2659065",
+    "imdb": "tt1237841"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 75
+}

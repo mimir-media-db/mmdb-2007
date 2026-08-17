@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_el_capo",
+  "title": "El capo",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q5821211",
+    "imdb": "tt1086431",
+    "tmdb": 56436
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 28
+}
