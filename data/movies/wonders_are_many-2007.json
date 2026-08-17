@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wonders_are_many_2007",
+  "title": "Wonders Are Many",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123536948",
+    "imdb": "tt0912601",
+    "tmdb": 85337
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

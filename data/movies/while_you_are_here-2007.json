@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_while_you_are_here_2007",
+  "title": "While You Are Here",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q45742779",
+    "imdb": "tt0880573",
+    "tmdb": 53152
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-10-25",
+  "runtime_minutes": 77
+}

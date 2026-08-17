@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_where_are_we_going_2007",
+  "title": "Where Are We Going?",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11273762",
+    "imdb": "tt1196144",
+    "tmdb": 107432
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}
