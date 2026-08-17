@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_1408_2007",
+  "title": "1408",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q203560",
+    "imdb": "tt0450385",
+    "tmdb": 3021
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-06-22",
+  "runtime_minutes": 106
+}
