@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_20th_century_battlefields",
+  "title": "20th Century Battlefields",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4630678",
+    "imdb": "tt0790798",
+    "tmdb": 4089
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}
