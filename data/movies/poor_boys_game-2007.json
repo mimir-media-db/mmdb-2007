@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_poor_boys_game_2007",
+  "title": "Poor Boy's Game",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3397861",
+    "imdb": "tt0816616",
+    "tmdb": 15020
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

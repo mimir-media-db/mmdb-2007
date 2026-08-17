@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_popcorn_2007",
+  "title": "Popcorn",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3397927",
+    "imdb": "tt0483776",
+    "tmdb": 18043
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

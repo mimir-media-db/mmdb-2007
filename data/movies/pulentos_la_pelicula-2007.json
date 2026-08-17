@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pulentos_la_pelicula_2007",
+  "title": "Pulentos, la película",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6092670",
+    "imdb": "tt4442090",
+    "tmdb": 496564
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 75
+}

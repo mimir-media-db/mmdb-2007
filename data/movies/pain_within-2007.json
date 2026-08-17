@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pain_within_2007",
+  "title": "Pain Within",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7124824",
+    "imdb": "tt0489249",
+    "tmdb": 999859
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}
