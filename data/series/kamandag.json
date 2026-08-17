@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_kamandag",
+  "title": "Kamandag",
+  "start_year": 2007,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q6355831",
+    "imdb": "tt1077359",
+    "tmdb": 5644
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 113
+}

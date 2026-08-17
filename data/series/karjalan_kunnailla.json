@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_karjalan_kunnailla",
+  "title": "Karjalan kunnailla",
+  "start_year": 2006,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q5398712",
+    "imdb": "tt0472501",
+    "tmdb": 108972
+  },
+  "last_updated": "2026-08-17"
+}

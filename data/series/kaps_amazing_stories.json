@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_kaps_amazing_stories",
+  "title": "Kap's Amazing Stories",
+  "start_year": 2007,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q6366334",
+    "imdb": "tt2108779",
+    "tmdb": 6884
+  },
+  "last_updated": "2026-08-17"
+}

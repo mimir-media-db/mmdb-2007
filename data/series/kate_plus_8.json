@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_kate_plus_8",
+  "title": "Kate Plus 8",
+  "start_year": 2007,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q3817900",
+    "imdb": "tt1124348",
+    "tmdb": 12551
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 11,
+  "total_episodes": 173
+}

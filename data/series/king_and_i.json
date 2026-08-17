@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_king_and_i",
+  "title": "The King and I",
+  "start_year": 2007,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q497048",
+    "imdb": "tt6201056",
+    "tmdb": 15961
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 63
+}

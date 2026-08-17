@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_kids_on_q",
+  "title": "Kids on Q",
+  "start_year": 2007,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q6405007",
+    "tmdb": 3082
+  },
+  "last_updated": "2026-08-17"
+}

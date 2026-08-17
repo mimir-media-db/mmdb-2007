@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_kromer_die_internationale_show",
+  "title": "Krömer - Die internationale Show",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q15859764",
+    "imdb": "tt1076942",
+    "tmdb": 36651
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 51
+}

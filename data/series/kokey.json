@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_kokey",
+  "title": "Kokey",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q6426592",
+    "imdb": "tt1069250",
+    "tmdb": 12968
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 70
+}

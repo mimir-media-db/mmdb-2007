@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_killing",
+  "title": "The Killing",
+  "start_year": 2007,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q956446",
+    "imdb": "tt0826760",
+    "tmdb": 32368
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 40
+}
