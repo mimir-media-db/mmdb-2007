@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_minaccia_2007",
+  "title": "La minaccia",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3823153",
+    "imdb": "tt2007414",
+    "tmdb": 704488
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 86
+}

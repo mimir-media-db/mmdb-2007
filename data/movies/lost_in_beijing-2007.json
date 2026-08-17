@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lost_in_beijing_2007",
+  "title": "Lost in Beijing",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5226961",
+    "imdb": "tt0949489",
+    "tmdb": 30112
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 112
+}

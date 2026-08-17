@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_little_boy_red_2007",
+  "title": "Little Boy Red",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3941662",
+    "imdb": "tt1047847",
+    "tmdb": 429954
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 79
+}

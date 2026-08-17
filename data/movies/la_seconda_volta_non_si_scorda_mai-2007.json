@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_seconda_volta_non_si_scorda_mai_2007",
+  "title": "La seconda volta non si scorda mai",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3824110",
+    "imdb": "tt1278186",
+    "tmdb": 75970
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 100
+}

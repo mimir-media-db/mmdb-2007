@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_les_yeux_bandes_2007",
+  "title": "Les yeux bandés",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3236200",
+    "imdb": "tt0792997",
+    "tmdb": 60569
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 81
+}
