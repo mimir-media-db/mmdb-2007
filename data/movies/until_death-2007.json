@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_until_death_2007",
+  "title": "Until Death",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q577841",
+    "imdb": "tt0783598",
+    "tmdb": 20411
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 101
+}

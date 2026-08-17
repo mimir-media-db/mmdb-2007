@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_uv_2007",
+  "title": "UV",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4002401",
+    "imdb": "tt0823654",
+    "tmdb": 70239
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 102
+}
