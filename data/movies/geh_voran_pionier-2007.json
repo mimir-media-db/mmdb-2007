@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_geh_voran_pionier_2007",
+  "title": "Geh voran, Pionier!",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125848290",
+    "imdb": "tt1147553"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-09-18"
+}

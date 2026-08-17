@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_goyas_ghosts_2007",
+  "title": "Goya's Ghosts",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1129761",
+    "imdb": "tt0455957",
+    "tmdb": 11515
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-02-01",
+  "runtime_minutes": 114
+}
