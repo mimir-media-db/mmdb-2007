@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_lalqueria_blanca",
+  "title": "L'Alqueria Blanca",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q9018177",
+    "imdb": "tt1127229",
+    "tmdb": 77320
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 17,
+  "total_episodes": 472
+}

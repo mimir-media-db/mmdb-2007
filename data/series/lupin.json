@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_lupin",
+  "title": "Lupin",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q6704723",
+    "imdb": "tt1018841",
+    "tmdb": 224763
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 95
+}

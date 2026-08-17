@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_les_boys",
+  "title": "Les Boys",
+  "start_year": 2007,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q3231137",
+    "imdb": "tt1102132",
+    "tmdb": 101045
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 73
+}

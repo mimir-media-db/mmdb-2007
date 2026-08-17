@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_life_is_wild",
+  "title": "Life Is Wild",
+  "start_year": 2007,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q2282937",
+    "imdb": "tt0938853",
+    "tmdb": 1381
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

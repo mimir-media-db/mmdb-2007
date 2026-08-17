@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_life_and_times_of_vivienne_vyle",
+  "title": "The Life and Times of Vivienne Vyle",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q1878704",
+    "imdb": "tt0917429",
+    "tmdb": 3937
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

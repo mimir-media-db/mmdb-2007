@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_ladies_night",
+  "title": "Ladies Night",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q61411923",
+    "imdb": "tt1312552",
+    "tmdb": 116271
+  },
+  "last_updated": "2026-08-17"
+}

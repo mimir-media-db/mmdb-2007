@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_les_moreres",
+  "title": "Les Moreres",
+  "start_year": 2007,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q9021881",
+    "imdb": "tt1035008",
+    "tmdb": 310087
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 100
+}

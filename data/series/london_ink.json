@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_london_ink",
+  "title": "London Ink",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3258964",
+    "imdb": "tt1145509",
+    "tmdb": 13974
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

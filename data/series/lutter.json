@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_lutter",
+  "title": "Lutter",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1878010",
+    "imdb": "tt0968993",
+    "tmdb": 43707
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}
