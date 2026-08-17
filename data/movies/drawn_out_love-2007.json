@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_drawn_out_love_2007",
+  "title": "Drawn Out Love",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2048256",
+    "imdb": "tt1042565",
+    "tmdb": 256345
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-05-25",
+  "runtime_minutes": 50
+}

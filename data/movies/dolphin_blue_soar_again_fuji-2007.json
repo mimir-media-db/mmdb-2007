@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dolphin_blue_soar_again_fuji_2007",
+  "title": "Dolphin Blue: Soar Again, Fuji",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11323334",
+    "imdb": "tt0991192",
+    "tmdb": 416331
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-07-07",
+  "runtime_minutes": 105
+}

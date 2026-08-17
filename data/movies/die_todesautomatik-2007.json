@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_die_todesautomatik_2007",
+  "title": "Die Todesautomatik",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13434747",
+    "imdb": "tt1024877",
+    "tmdb": 6514
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 90
+}

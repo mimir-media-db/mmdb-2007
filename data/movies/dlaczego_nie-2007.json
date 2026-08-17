@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dlaczego_nie_2007",
+  "title": "Dlaczego nie!",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9207909",
+    "imdb": "tt0878113",
+    "tmdb": 36384
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-19",
+  "runtime_minutes": 97
+}

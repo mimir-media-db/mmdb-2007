@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dangerous_days_making_blade_runner_2007",
+  "title": "Dangerous Days: Making Blade Runner",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106359029",
+    "imdb": "tt1080585",
+    "tmdb": 57656
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-12-18",
+  "runtime_minutes": 210
+}
