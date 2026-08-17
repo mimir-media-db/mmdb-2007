@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_il_va_pleuvoir_sur_conakry_2007",
+  "title": "Il va pleuvoir sur Conakry",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3430741",
+    "imdb": "tt1043486",
+    "tmdb": 87012
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 110
+}

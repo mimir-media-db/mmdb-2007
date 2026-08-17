@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_icebergs_2007",
+  "title": "Icebergs",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3147613",
+    "imdb": "tt1127320",
+    "tmdb": 434272
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

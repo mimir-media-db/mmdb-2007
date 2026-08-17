@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_it_had_to_be_you_2007",
+  "title": "It Had to be You",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3273614",
+    "imdb": "tt0910911",
+    "tmdb": 49389
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 92
+}

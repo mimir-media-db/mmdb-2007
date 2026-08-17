@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_invisible_2007",
+  "title": "The Invisible",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q843450",
+    "imdb": "tt0435670",
+    "tmdb": 9785
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 102
+}

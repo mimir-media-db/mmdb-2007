@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ill_wind_2007",
+  "title": "Ill Wind",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3555554",
+    "imdb": "tt0785076",
+    "tmdb": 74132
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

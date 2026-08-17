@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_isidoro_la_pelicula_2007",
+  "title": "Isidoro, la película",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2880258",
+    "imdb": "tt1038033",
+    "tmdb": 412327
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 80
+}

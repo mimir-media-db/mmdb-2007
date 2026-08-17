@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_island_etude_2007",
+  "title": "Island Etude",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5928635",
+    "imdb": "tt1006908",
+    "tmdb": 122594
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 108
+}
