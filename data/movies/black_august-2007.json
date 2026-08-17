@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_black_august_2007",
+  "title": "Black August",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4920303",
+    "imdb": "tt0383929",
+    "tmdb": 67829
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

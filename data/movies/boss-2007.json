@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_boss_2007",
+  "title": "The Boss",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5945024",
+    "imdb": "tt0845527",
+    "tmdb": 610837
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blood_chocolate_2007",
+  "title": "Blood & Chocolate",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q885164",
+    "imdb": "tt0397044",
+    "tmdb": 10075
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 95
+}
