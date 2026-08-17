@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_willkommen_osterreich",
+  "title": "Willkommen Österreich",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1410598",
+    "imdb": "tt1523395",
+    "tmdb": 61946
+  },
+  "last_updated": "2026-08-17"
+}

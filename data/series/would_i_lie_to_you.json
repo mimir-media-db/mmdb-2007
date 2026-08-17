@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_would_i_lie_to_you",
+  "title": "Would I Lie to You?",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q655817",
+    "imdb": "tt1055238",
+    "tmdb": 4775
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 13,
+  "total_episodes": 110
+}

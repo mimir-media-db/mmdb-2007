@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_who_dares_wins",
+  "title": "Who Dares Wins",
+  "start_year": 2007,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q7997195",
+    "imdb": "tt1923975",
+    "tmdb": 15444
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 9,
+  "total_episodes": 64
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_whammy_push_your_luck",
+  "title": "Whammy! Push Your Luck",
+  "start_year": 2007,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q7990591",
+    "imdb": "tt3336836",
+    "tmdb": 6843
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 105
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_wayward_kenting",
+  "title": "Wayward Kenting",
+  "start_year": 2007,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q5940983",
+    "imdb": "tt2265416",
+    "tmdb": 45537
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 20
+}

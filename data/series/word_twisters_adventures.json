@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_word_twisters_adventures",
+  "title": "Word Twisters' Adventures",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q3472497",
+    "tmdb": 15420
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 20
+}

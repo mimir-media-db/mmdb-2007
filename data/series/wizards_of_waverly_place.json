@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_wizards_of_waverly_place",
+  "title": "Wizards of Waverly Place",
+  "start_year": 2007,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q184342",
+    "imdb": "tt0799922",
+    "tmdb": 3498
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 106
+}

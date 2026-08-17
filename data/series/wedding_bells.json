@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_wedding_bells",
+  "title": "The Wedding Bells",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q962225",
+    "imdb": "tt0899039",
+    "tmdb": 4992
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 7
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_war_of_money",
+  "title": "War of Money",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q483681",
+    "imdb": "tt1186911",
+    "tmdb": 20588
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

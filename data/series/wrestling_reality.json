@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_wrestling_reality",
+  "title": "Wrestling Reality",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q8037790"
+  },
+  "last_updated": "2026-08-17"
+}
