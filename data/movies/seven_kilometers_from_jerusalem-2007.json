@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_seven_kilometers_from_jerusalem_2007",
+  "title": "Seven Kilometers from Jerusalem",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3599878",
+    "imdb": "tt1002740",
+    "tmdb": 73244
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 105
+}

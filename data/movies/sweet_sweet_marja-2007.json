@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sweet_sweet_marja_2007",
+  "title": "Sweet Sweet Marja",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3978788",
+    "imdb": "tt0888527",
+    "tmdb": 100298
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 96
+}

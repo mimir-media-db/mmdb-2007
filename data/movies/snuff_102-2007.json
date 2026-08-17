@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_snuff_102_2007",
+  "title": "Snuff 102",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1761340",
+    "imdb": "tt0984118",
+    "tmdb": 428863
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 105
+}

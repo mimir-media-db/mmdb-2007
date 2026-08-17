@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_signal_2007",
+  "title": "The Signal",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1391425",
+    "imdb": "tt0780607",
+    "tmdb": 13059
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 103
+}

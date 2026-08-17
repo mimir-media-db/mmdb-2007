@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_strawberry_killers_returns_2007",
+  "title": "Strawberry Killers -Returns-",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6134491",
+    "imdb": "tt4456402"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 65
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_st_trinians_2007",
+  "title": "St Trinian's",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93443",
+    "imdb": "tt0964587",
+    "tmdb": 10748
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 97
+}

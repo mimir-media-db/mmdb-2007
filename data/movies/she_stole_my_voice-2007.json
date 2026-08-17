@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_she_stole_my_voice_2007",
+  "title": "She Stole My Voice",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4334801",
+    "imdb": "tt15869082",
+    "tmdb": 113222
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 88
+}
