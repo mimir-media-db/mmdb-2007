@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_you_got_me_2007",
+  "title": "You Got Me!",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8057244",
+    "imdb": "tt0934863",
+    "tmdb": 70582
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

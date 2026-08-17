@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_you_must_be_this_tall_the_story_of_rocky_point_park_2007",
+  "title": "You Must Be This Tall: The Story of Rocky Point Park",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29876846",
+    "imdb": "tt1110287",
+    "tmdb": 412636
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}
