@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_effect_of_love_2007",
+  "title": "The Effect of Love",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7731617",
+    "imdb": "tt1029154",
+    "tmdb": 297677
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 94
+}

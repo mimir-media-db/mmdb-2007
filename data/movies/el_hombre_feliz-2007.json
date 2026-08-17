@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_el_hombre_feliz_2007",
+  "title": "El hombre feliz",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5825242",
+    "imdb": "tt1182282"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-06-12",
+  "runtime_minutes": 15
+}

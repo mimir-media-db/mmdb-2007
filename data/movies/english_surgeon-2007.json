@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_english_surgeon_2007",
+  "title": "The English Surgeon",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7732258",
+    "imdb": "tt1200060",
+    "tmdb": 90324
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

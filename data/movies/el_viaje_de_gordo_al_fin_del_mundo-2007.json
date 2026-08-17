@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_el_viaje_de_gordo_al_fin_del_mundo_2007",
+  "title": "El viaje de Gordo al fin del mundo",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5827062",
+    "imdb": "tt1087891",
+    "tmdb": 212148
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-09-20"
+}

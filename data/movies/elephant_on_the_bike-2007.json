@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_elephant_on_the_bike_2007",
+  "title": "The Elephant on the Bike",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16182358",
+    "imdb": "tt1087635",
+    "tmdb": 164611
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-04-19"
+}
