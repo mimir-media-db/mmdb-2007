@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_our_daily_bread_2007",
+  "title": "Our Daily Bread",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q695573",
+    "imdb": "tt0765849",
+    "tmdb": 24565
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-18",
+  "runtime_minutes": 92
+}

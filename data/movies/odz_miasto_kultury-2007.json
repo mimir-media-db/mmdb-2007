@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_odz_miasto_kultury_2007",
+  "title": "Łódź miasto kultury",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q726574"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-11-08"
+}
