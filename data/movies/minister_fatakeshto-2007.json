@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_minister_fatakeshto_2007",
+  "title": "Minister Fatakeshto",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6865724",
+    "imdb": "tt4771828",
+    "tmdb": 714121
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-06-08"
+}

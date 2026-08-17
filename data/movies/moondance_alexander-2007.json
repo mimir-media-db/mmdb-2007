@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_moondance_alexander_2007",
+  "title": "Moondance Alexander",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2717510",
+    "imdb": "tt0828065",
+    "tmdb": 41281
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-10-19",
+  "runtime_minutes": 104
+}

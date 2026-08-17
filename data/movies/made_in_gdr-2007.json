@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_made_in_gdr_2007",
+  "title": "Made in GDR",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1391698",
+    "imdb": "tt0953483"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-25",
+  "runtime_minutes": 90
+}

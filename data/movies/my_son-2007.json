@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_son_2007",
+  "title": "My Son",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4189052",
+    "imdb": "tt1572916",
+    "tmdb": 118144
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-05-01",
+  "runtime_minutes": 109
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_dna_says_i_love_you_2007",
+  "title": "My DNA Says I Love You",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114957322",
+    "imdb": "tt1010409",
+    "tmdb": 65414
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-08-31"
+}

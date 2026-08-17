@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_man_woman_coffee_2007",
+  "title": "Man Woman Coffee",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22338543",
+    "imdb": "tt1842412",
+    "tmdb": 543747
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-11-07",
+  "runtime_minutes": 71
+}

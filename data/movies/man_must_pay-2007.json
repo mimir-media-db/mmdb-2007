@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_man_must_pay_2007",
+  "title": "Man Must Pay",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124966248",
+    "tmdb": 67879
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-06-06",
+  "runtime_minutes": 93
+}

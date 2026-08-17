@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_man_from_plains_2007",
+  "title": "Man from Plains",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3334501",
+    "imdb": "tt0913958",
+    "tmdb": 78527
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-10-26",
+  "runtime_minutes": 120
+}

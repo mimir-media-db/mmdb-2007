@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_manda_bala_2007",
+  "title": "Manda Bala",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3427837",
+    "imdb": "tt0912590",
+    "tmdb": 18181
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-20",
+  "runtime_minutes": 85
+}
