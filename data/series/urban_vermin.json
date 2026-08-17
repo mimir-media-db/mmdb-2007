@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_urban_vermin",
+  "title": "Urban Vermin",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q2557329",
+    "imdb": "tt1227523",
+    "tmdb": 7023
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 26
+}

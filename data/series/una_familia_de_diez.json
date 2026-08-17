@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_una_familia_de_diez",
+  "title": "Una familia de diez",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q9091304",
+    "imdb": "tt0996011",
+    "tmdb": 78722
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 100
+}

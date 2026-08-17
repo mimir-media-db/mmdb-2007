@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_unsere_farm_in_irland",
+  "title": "Unsere Farm in Irland",
+  "start_year": 2006,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q288061",
+    "imdb": "tt1369402",
+    "tmdb": 41008
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}
