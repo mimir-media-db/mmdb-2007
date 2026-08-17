@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_jail",
+  "title": "Jail",
+  "start_year": 2007,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q6123566",
+    "imdb": "tt1128727",
+    "tmdb": 12775
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 98
+}

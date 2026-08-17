@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_julias_tango",
+  "title": "Julia's Tango",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q14942042",
+    "imdb": "tt0986318",
+    "tmdb": 24001
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 22
+}

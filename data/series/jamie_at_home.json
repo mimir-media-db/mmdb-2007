@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_jamie_at_home",
+  "title": "Jamie at Home",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3198893",
+    "imdb": "tt1057604",
+    "tmdb": 6886
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 26
+}
