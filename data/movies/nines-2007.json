@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nines_2007",
+  "title": "The Nines",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1892083",
+    "imdb": "tt0810988",
+    "tmdb": 12994
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-21",
+  "runtime_minutes": 100
+}
