@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_710_split_2007",
+  "title": "7-10 Split",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q259265",
+    "imdb": "tt0784962",
+    "tmdb": 15046
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 90
+}
