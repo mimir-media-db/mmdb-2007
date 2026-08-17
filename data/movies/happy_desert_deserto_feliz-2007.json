@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_happy_desert_deserto_feliz_2007",
+  "title": "Happy Desert (Deserto Feliz)",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10265557",
+    "imdb": "tt1018710",
+    "tmdb": 242591
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-04-23",
+  "runtime_minutes": 88
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hotel_tivoli_2007",
+  "title": "Hotel Tivoli",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9005000",
+    "imdb": "tt0467959",
+    "tmdb": 73130
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 112
+}
