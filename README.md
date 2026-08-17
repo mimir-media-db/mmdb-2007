@@ -1,2 +1,3 @@
-# mmdb-2007
-MMDB 2007 — Movies and series from 2007
+# MMDB — 2007
+
+Movies and series released in 2007.
