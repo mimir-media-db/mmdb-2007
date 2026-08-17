@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_kayamath",
+  "title": "Kayamath",
+  "start_year": 2007,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q251800",
+    "imdb": "tt1889879",
+    "tmdb": 4008
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 411
+}

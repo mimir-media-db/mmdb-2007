@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_helicopter_heroes",
+  "title": "Helicopter Heroes",
+  "start_year": 2007,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q14954384",
+    "imdb": "tt1101218",
+    "tmdb": 29871
+  },
+  "last_updated": "2026-08-17"
+}

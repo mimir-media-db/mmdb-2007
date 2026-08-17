@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_camera_cafe",
+  "title": "Camera Café",
+  "start_year": 2006,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q5025983",
+    "imdb": "tt1002837",
+    "tmdb": 7281
+  },
+  "last_updated": "2026-08-17"
+}

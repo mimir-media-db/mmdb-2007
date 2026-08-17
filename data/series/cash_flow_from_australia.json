@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_cash_flow_from_australia",
+  "title": "Cash Flow From Australia",
+  "start_year": 2007,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q5048656"
+  },
+  "last_updated": "2026-08-17"
+}

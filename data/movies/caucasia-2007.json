@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_caucasia_2007",
+  "title": "Caucasia",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4206973",
+    "imdb": "tt1167643",
+    "tmdb": 286047
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

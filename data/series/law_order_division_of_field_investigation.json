@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_law_order_division_of_field_investigation",
+  "title": "Law & Order: Division of Field Investigation",
+  "start_year": 2007,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q10396653",
+    "imdb": "tt1465977",
+    "tmdb": 38264
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 46
+}

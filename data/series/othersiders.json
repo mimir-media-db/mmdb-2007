@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_othersiders",
+  "title": "The Othersiders",
+  "start_year": 2007,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q7755619",
+    "imdb": "tt1441005",
+    "tmdb": 18615
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 23
+}

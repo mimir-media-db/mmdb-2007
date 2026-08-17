@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_louise_log",
+  "title": "The Louise Log",
+  "start_year": 2007,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q17067805",
+    "imdb": "tt2111079"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 44
+}

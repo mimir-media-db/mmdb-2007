@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_le_camping_des_foutriquets_2007",
+  "title": "Le Camping des foutriquets",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3220773",
+    "imdb": "tt1301981",
+    "tmdb": 194903
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 90
+}

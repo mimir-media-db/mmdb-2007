@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_clark_and_michael",
+  "title": "Clark and Michael",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q5127431",
+    "imdb": "tt0914803",
+    "tmdb": 13368
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

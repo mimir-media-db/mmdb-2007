@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ma_place_au_soleil_2007",
+  "title": "Ma place au soleil",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3273561",
+    "imdb": "tt0782143",
+    "tmdb": 48378
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 105
+}

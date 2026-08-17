@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jekyll_2007",
+  "title": "Jekyll",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6176596",
+    "imdb": "tt0393394",
+    "tmdb": 311085
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 96
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_comics_britannia",
+  "title": "Comics Britannia",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5151809",
+    "imdb": "tt1118134",
+    "tmdb": 14776
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 3
+}

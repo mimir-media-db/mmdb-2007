@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_heile_welt_2007",
+  "title": "Heile Welt",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1594814",
+    "imdb": "tt0757214",
+    "tmdb": 217328
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 89
+}

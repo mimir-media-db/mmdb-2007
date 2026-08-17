@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_se_llama_copla",
+  "title": "Se llama copla",
+  "start_year": 2007,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q6122712",
+    "imdb": "tt4062580",
+    "tmdb": 119752
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 9,
+  "total_episodes": 283
+}

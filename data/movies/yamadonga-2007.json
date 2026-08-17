@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yamadonga_2007",
+  "title": "Yamadonga",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3765015",
+    "imdb": "tt0924317",
+    "tmdb": 77043
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

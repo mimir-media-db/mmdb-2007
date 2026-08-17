@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_willys_jul",
+  "title": "Willys jul",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12010726",
+    "imdb": "tt26758154"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 24
+}

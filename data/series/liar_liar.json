@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_liar_liar",
+  "title": "Liar Liar",
+  "start_year": 2006,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q12304364",
+    "imdb": "tt1424034",
+    "tmdb": 44167
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 25
+}

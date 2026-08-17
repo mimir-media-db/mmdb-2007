@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_civico_zero_2007",
+  "title": "Civico zero",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3678774",
+    "imdb": "tt1149377",
+    "tmdb": 419869
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 80
+}

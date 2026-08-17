@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_law_order_criminal_intent_russia",
+  "title": "Law & Order Criminal Intent: Russia",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q10396652",
+    "imdb": "tt1601069",
+    "tmdb": 38097
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3
+}

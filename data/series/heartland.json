@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_heartland",
+  "title": "Heartland",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q521858",
+    "imdb": "tt1094229",
+    "tmdb": 14929
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 19,
+  "total_episodes": 279
+}

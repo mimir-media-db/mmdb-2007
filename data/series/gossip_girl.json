@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_gossip_girl",
+  "title": "Gossip Girl",
+  "start_year": 2007,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q199853",
+    "imdb": "tt0397442",
+    "tmdb": 1395
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 121
+}

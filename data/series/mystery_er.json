@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_mystery_er",
+  "title": "Mystery ER",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q6948827",
+    "imdb": "tt0772560",
+    "tmdb": 35388
+  },
+  "last_updated": "2026-08-17"
+}

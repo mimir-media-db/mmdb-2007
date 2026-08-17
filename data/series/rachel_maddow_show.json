@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_rachel_maddow_show",
+  "title": "The Rachel Maddow Show",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3522402",
+    "imdb": "tt1280627",
+    "tmdb": 7967
+  },
+  "last_updated": "2026-08-17"
+}

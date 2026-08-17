@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_defenders_of_riga_2007",
+  "title": "Defenders of Riga",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2991740",
+    "imdb": "tt0471359",
+    "tmdb": 195834
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 118
+}

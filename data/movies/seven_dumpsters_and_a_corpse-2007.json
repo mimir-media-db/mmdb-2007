@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_seven_dumpsters_and_a_corpse_2007",
+  "title": "Seven Dumpsters and a Corpse",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2282206",
+    "imdb": "tt1027744",
+    "tmdb": 8062
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 84
+}

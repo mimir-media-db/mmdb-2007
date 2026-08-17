@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_da_tang_fu_rong_yuan",
+  "title": "Da Tang Fu Rong Yuan",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5207312",
+    "imdb": "tt2186260",
+    "tmdb": 43583
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 30
+}

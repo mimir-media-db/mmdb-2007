@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_baby_borrowers",
+  "title": "The Baby Borrowers",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q7715173",
+    "imdb": "tt1130074",
+    "tmdb": 5519
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 8
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_palimos_ng_pagibig",
+  "title": "Palimos ng Pag-ibig",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q7127545",
+    "imdb": "tt0989539",
+    "tmdb": 7711
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 33
+}

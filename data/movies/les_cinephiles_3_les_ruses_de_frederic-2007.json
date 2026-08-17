@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_les_cinephiles_3_les_ruses_de_frederic_2007",
+  "title": "Les cinéphiles 3 - Les ruses de Frédéric",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3231571",
+    "imdb": "tt1067149",
+    "tmdb": 458862
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 32
+}

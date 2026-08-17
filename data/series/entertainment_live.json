@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_entertainment_live",
+  "title": "Entertainment Live",
+  "start_year": 2007,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q5380459",
+    "tmdb": 6725
+  },
+  "last_updated": "2026-08-17"
+}

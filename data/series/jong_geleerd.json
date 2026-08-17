@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_jong_geleerd",
+  "title": "Jong Geleerd",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q2000417",
+    "imdb": "tt1112792",
+    "tmdb": 26508
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 14
+}

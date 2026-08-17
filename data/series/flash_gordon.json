@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_flash_gordon",
+  "title": "Flash Gordon",
+  "start_year": 2007,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q1427239",
+    "imdb": "tt0959086",
+    "tmdb": 1225
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 22
+}

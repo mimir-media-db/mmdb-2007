@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_el_sindrome_de_ulises",
+  "title": "El síndrome de Ulises",
+  "start_year": 2007,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q5826779",
+    "imdb": "tt1076950",
+    "tmdb": 36267
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 26
+}

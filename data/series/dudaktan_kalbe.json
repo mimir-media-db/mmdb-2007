@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dudaktan_kalbe",
+  "title": "Dudaktan Kalbe",
+  "start_year": 2007,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q471826",
+    "imdb": "tt1171658",
+    "tmdb": 21595
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 75
+}

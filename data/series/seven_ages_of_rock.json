@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_seven_ages_of_rock",
+  "title": "Seven Ages of Rock",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1123084",
+    "imdb": "tt1912155",
+    "tmdb": 16890
+  },
+  "last_updated": "2026-08-17"
+}

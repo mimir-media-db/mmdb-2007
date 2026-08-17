@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_wedding_belles",
+  "title": "Wedding Belles",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7979050",
+    "imdb": "tt0984159"
+  },
+  "last_updated": "2026-08-17"
+}

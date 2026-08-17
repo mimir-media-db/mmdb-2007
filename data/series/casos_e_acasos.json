@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_casos_e_acasos",
+  "title": "Casos e Acasos",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5049008",
+    "imdb": "tt1265624",
+    "tmdb": 36677
+  },
+  "last_updated": "2026-08-17"
+}

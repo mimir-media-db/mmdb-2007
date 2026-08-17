@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_room_401",
+  "title": "Room 401",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q2659961",
+    "imdb": "tt0978757",
+    "tmdb": 13145
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

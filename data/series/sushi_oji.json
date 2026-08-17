@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_sushi_oji",
+  "title": "Sushi Ōji!",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4118320",
+    "imdb": "tt1064646",
+    "tmdb": 16709
+  },
+  "last_updated": "2026-08-17"
+}

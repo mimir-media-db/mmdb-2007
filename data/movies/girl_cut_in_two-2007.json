@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_girl_cut_in_two_2007",
+  "title": "A Girl Cut in Two",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q701173",
+    "imdb": "tt0901485",
+    "tmdb": 5592
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 115
+}

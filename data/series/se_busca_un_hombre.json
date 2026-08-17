@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_se_busca_un_hombre",
+  "title": "Se Busca Un Hombre",
+  "start_year": 2007,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q1970977",
+    "imdb": "tt0969676",
+    "tmdb": 13190
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 260
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_finns_girl_2007",
+  "title": "Finn's Girl",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4279365",
+    "imdb": "tt1077346",
+    "tmdb": 49448
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 88
+}

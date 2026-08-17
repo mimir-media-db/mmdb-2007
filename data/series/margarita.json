@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_margarita",
+  "title": "Margarita",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q6760121",
+    "imdb": "tt1076579",
+    "tmdb": 12711
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 40
+}

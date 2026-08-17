@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nanking_2007",
+  "title": "Nanking",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q715335",
+    "imdb": "tt0893356",
+    "tmdb": 17181
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 88
+}

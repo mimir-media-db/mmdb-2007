@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_resiklo_2007",
+  "title": "Resiklo",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3585759",
+    "imdb": "tt1047877",
+    "tmdb": 50136
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 110
+}

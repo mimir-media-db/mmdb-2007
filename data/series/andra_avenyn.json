@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_andra_avenyn",
+  "title": "Andra Avenyn",
+  "start_year": 2007,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q4572097",
+    "imdb": "tt1087819",
+    "tmdb": 14013
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 185
+}

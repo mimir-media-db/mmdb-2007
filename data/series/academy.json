@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_academy",
+  "title": "The Academy",
+  "start_year": 2007,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q7712175",
+    "imdb": "tt0852453",
+    "tmdb": 12629
+  },
+  "last_updated": "2026-08-17"
+}

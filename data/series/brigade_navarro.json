@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_brigade_navarro",
+  "title": "Brigade Navarro",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2925227",
+    "imdb": "tt1055436",
+    "tmdb": 105652
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 8
+}

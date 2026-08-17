@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_last_man_standing",
+  "title": "Last Man Standing",
+  "start_year": 2007,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q3232220",
+    "imdb": "tt1072955",
+    "tmdb": 14512
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 22
+}

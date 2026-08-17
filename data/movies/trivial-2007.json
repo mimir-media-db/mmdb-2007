@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_trivial_2007",
+  "title": "Trivial",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2987804",
+    "imdb": "tt0864918",
+    "tmdb": 10524
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 103
+}

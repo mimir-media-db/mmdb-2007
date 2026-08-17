@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_melting_pot_cafe",
+  "title": "Melting Pot Café",
+  "start_year": 2007,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q3305284",
+    "imdb": "tt1033917",
+    "tmdb": 113261
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 18
+}

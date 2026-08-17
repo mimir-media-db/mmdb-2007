@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_fist_of_zen",
+  "title": "Fist of Zen",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q463609",
+    "imdb": "tt1113166",
+    "tmdb": 20367
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 20
+}

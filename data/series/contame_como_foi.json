@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_contame_como_foi",
+  "title": "Conta-me como foi",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2995394",
+    "imdb": "tt1018269",
+    "tmdb": 64775
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 156
+}

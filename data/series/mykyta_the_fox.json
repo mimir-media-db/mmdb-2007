@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mykyta_the_fox",
+  "title": "Mykyta the Fox",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2429279",
+    "imdb": "tt6754684",
+    "tmdb": 15767
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 26
+}

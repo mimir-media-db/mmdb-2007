@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_two_coreys",
+  "title": "The Two Coreys",
+  "start_year": 2007,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q7770913",
+    "imdb": "tt0818149",
+    "tmdb": 19450
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 19
+}

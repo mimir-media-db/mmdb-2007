@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_kreuzfahrt_ins_gluck",
+  "title": "Kreuzfahrt ins Glück",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q970266",
+    "imdb": "tt0920511",
+    "tmdb": 40885
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 37
+}

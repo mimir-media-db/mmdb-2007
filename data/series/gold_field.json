@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_gold_field",
+  "title": "Gold Field",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4378315",
+    "imdb": "tt1236816"
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_are_we_there_yet_world_adventure",
+  "title": "Are We There Yet?: World Adventure",
+  "start_year": 2007,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q4788377",
+    "imdb": "tt1170040",
+    "tmdb": 17068
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 39
+}

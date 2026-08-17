@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_channel_m_breakfast",
+  "title": "Channel M Breakfast",
+  "start_year": 2007,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q5072418"
+  },
+  "last_updated": "2026-08-17"
+}

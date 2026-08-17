@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_parental_guidance",
+  "title": "Parental Guidance",
+  "start_year": 2007,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q7136775",
+    "imdb": "tt1043713",
+    "tmdb": 11281
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 26
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_scar_2007",
+  "title": "Scar",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3475152",
+    "imdb": "tt0847520",
+    "tmdb": 24499
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

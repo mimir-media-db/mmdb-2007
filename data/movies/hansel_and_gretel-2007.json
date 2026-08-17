@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hansel_and_gretel_2007",
+  "title": "Hansel and Gretel",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q486340",
+    "imdb": "tt1002567",
+    "tmdb": 25597
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 117
+}

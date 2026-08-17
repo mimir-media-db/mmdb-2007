@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_quizmania",
+  "title": "Quizmania",
+  "start_year": 2007,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q7272719"
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_nuevo_rico_nuevo_pobre",
+  "title": "Nuevo Rico Nuevo Pobre",
+  "start_year": 2007,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q4326866",
+    "imdb": "tt1233451",
+    "tmdb": 7311
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 192
+}

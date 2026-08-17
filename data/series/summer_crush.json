@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_summer_crush",
+  "title": "Summer Crush",
+  "start_year": 2007,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q1436880",
+    "imdb": "tt1328968",
+    "tmdb": 98656
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 144
+}

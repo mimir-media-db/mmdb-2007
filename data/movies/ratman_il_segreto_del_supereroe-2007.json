@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ratman_il_segreto_del_supereroe_2007",
+  "title": "Rat-Man - Il segreto del supereroe",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3930449",
+    "imdb": "tt3313006",
+    "tmdb": 294101
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 70
+}

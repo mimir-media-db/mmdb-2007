@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_heroes_and_villains",
+  "title": "Heroes and Villains",
+  "start_year": 2007,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q10467422",
+    "imdb": "tt1441589",
+    "tmdb": 7728
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pixar_short_films_collection_volume_1_2007",
+  "title": "Pixar Short Films Collection Volume 1",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3283283",
+    "imdb": "tt1164983",
+    "tmdb": 265447
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 53
+}

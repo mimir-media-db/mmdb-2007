@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_singing_bee",
+  "title": "The Singing Bee",
+  "start_year": 2007,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q555468",
+    "imdb": "tt1001473",
+    "tmdb": 7496
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5
+}

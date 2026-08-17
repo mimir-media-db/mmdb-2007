@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bindi_the_jungle_girl",
+  "title": "Bindi the Jungle Girl",
+  "start_year": 2007,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q3494566",
+    "imdb": "tt0885425",
+    "tmdb": 11429
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 31
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_play_it_again",
+  "title": "Play It Again",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7203024",
+    "imdb": "tt1019998",
+    "tmdb": 1163
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

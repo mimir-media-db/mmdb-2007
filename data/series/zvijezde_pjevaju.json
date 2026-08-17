@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_zvijezde_pjevaju",
+  "title": "Zvijezde pjevaju",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12960696",
+    "imdb": "tt2438062",
+    "tmdb": 322653
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 13
+}

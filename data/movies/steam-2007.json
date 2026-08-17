@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_steam_2007",
+  "title": "Steam",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3972202",
+    "imdb": "tt0892100",
+    "tmdb": 196235
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 120
+}

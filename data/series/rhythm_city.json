@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_rhythm_city",
+  "title": "Rhythm City",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7321903",
+    "imdb": "tt1086193",
+    "tmdb": 31230
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 12
+}

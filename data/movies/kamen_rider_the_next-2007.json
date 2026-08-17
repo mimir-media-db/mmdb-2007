@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kamen_rider_the_next_2007",
+  "title": "Kamen Rider: The Next",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3088047",
+    "imdb": "tt1068654",
+    "tmdb": 41105
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

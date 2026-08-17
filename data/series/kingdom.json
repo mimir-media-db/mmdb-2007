@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_kingdom",
+  "title": "Kingdom",
+  "start_year": 2007,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q2667814",
+    "imdb": "tt0841961",
+    "tmdb": 5287
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 18
+}

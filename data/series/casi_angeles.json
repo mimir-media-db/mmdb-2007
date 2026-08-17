@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_casi_angeles",
+  "title": "Casi Ángeles",
+  "start_year": 2007,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q1975886",
+    "imdb": "tt1151030",
+    "tmdb": 16321
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 579
+}

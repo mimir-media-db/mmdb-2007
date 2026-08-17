@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shanghai_kiss_2007",
+  "title": "Shanghai Kiss",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1537404",
+    "imdb": "tt0469184",
+    "tmdb": 15361
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 106
+}

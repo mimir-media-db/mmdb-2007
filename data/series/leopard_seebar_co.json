@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_leopard_seebar_co",
+  "title": "Leopard, Seebär & Co.",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1819547",
+    "imdb": "tt1216858",
+    "tmdb": 41279
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 160
+}

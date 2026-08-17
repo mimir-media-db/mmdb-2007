@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_day_73_with_sarah_2007",
+  "title": "Day 73 with Sarah",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2245524",
+    "imdb": "tt0988082",
+    "tmdb": 400945
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 17
+}

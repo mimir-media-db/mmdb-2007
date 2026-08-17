@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_my_spy_family",
+  "title": "My Spy Family",
+  "start_year": 2007,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q921796",
+    "imdb": "tt1179811",
+    "tmdb": 6929
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 46
+}

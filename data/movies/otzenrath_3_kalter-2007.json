@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_otzenrath_3_kalter_2007",
+  "title": "Otzenrath 3° kälter",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1291794",
+    "imdb": "tt1300274",
+    "tmdb": 623309
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 81
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_projekt_gold_eine_deutsche_handballwm_2007",
+  "title": "Projekt Gold - Eine deutsche Handball-WM",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2112361",
+    "imdb": "tt1063692",
+    "tmdb": 15025
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 106
+}

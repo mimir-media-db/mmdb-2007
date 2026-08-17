@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_universe",
+  "title": "The Universe",
+  "start_year": 2007,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q626953",
+    "imdb": "tt1051155",
+    "tmdb": 2622
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 9,
+  "total_episodes": 88
+}

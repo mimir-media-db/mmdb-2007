@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_city_homicide",
+  "title": "City Homicide",
+  "start_year": 2007,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q2974572",
+    "imdb": "tt1024932",
+    "tmdb": 4850
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 84
+}

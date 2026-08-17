@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_bellezas_indomables",
+  "title": "Bellezas Indomables",
+  "start_year": 2007,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q4883982",
+    "imdb": "tt1104860",
+    "tmdb": 15456
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 150
+}

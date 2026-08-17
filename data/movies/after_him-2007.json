@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_after_him_2007",
+  "title": "After Him",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1197275",
+    "imdb": "tt0922354",
+    "tmdb": 51844
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 88
+}

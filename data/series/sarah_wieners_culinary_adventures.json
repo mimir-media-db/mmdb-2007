@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_sarah_wieners_culinary_adventures",
+  "title": "Sarah Wiener's Culinary Adventures",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q47107124",
+    "imdb": "tt0932812"
+  },
+  "last_updated": "2026-08-17"
+}

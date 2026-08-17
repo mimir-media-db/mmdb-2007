@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_piloti",
+  "title": "Piloti",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q526426",
+    "imdb": "tt2203168",
+    "tmdb": 41194
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 459
+}

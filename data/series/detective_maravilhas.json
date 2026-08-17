@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_detective_maravilhas",
+  "title": "Detective Maravilhas",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q10265738",
+    "imdb": "tt1114742",
+    "tmdb": 72831
+  },
+  "last_updated": "2026-08-17"
+}

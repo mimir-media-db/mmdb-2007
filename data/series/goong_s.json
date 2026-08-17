@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_goong_s",
+  "title": "Goong S",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q495630",
+    "imdb": "tt6357260",
+    "tmdb": 14452
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 20
+}

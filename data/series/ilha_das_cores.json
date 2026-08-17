@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_ilha_das_cores",
+  "title": "Ilha das Cores",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q18465052",
+    "imdb": "tt1051896",
+    "tmdb": 239820
+  },
+  "last_updated": "2026-08-17"
+}

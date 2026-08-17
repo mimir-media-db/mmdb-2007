@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_wir_sind_kaiser",
+  "title": "Wir sind Kaiser",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2585449",
+    "imdb": "tt1296328",
+    "tmdb": 85850
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 49
+}

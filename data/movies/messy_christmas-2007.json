@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_messy_christmas_2007",
+  "title": "Messy Christmas",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1918046",
+    "imdb": "tt0961738",
+    "tmdb": 5003
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 92
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_romantic_princess",
+  "title": "Romantic Princess",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q388086",
+    "imdb": "tt2973902",
+    "tmdb": 4791
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 13
+}

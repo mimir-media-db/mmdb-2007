@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dr_steveo",
+  "title": "Dr. Steve-O",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q5304415",
+    "imdb": "tt1051931",
+    "tmdb": 14423
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 7
+}

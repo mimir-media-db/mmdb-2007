@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_this_american_life",
+  "title": "This American Life",
+  "start_year": 2007,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q7785599",
+    "imdb": "tt0805978",
+    "tmdb": 5912
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

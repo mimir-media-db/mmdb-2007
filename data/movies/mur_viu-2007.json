@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mur_viu_2007",
+  "title": "Mur Viu",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6032809",
+    "imdb": "tt1186812"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 63
+}

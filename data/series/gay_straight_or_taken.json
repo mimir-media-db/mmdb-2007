@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_gay_straight_or_taken",
+  "title": "Gay, Straight or Taken?",
+  "start_year": 2006,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q4202185",
+    "imdb": "tt0906710",
+    "tmdb": 9925
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 18
+}

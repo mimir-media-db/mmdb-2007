@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_beeps",
+  "title": "The Beeps",
+  "start_year": 2007,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q7716285",
+    "imdb": "tt0993121",
+    "tmdb": 13558
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 20
+}

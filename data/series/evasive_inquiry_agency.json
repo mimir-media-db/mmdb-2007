@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_evasive_inquiry_agency",
+  "title": "Evasive Inquiry Agency",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q6703377",
+    "imdb": "tt1807237",
+    "tmdb": 83196
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

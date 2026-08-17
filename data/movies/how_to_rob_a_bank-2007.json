@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_how_to_rob_a_bank_2007",
+  "title": "How to Rob a Bank",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q335144",
+    "imdb": "tt0762104",
+    "tmdb": 13534
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 88
+}

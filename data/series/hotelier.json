@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_hotelier",
+  "title": "Hotelier",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q11073270",
+    "imdb": "tt1015269",
+    "tmdb": 37986
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 9
+}

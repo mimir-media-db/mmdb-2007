@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bronx_is_burning",
+  "title": "The Bronx Is Burning",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q7720302",
+    "imdb": "tt0790477",
+    "tmdb": 5560
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

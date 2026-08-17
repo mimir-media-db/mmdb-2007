@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_athili_sattibabu_lkg_2007",
+  "title": "Athili Sattibabu LKG",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4813655",
+    "imdb": "tt1258121",
+    "tmdb": 200029
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

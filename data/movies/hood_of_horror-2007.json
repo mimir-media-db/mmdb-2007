@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hood_of_horror_2007",
+  "title": "Hood of Horror",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1627370",
+    "imdb": "tt0475298",
+    "tmdb": 15423
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 84
+}

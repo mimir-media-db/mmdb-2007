@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_rookie",
+  "title": "The Rookie",
+  "start_year": 2007,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q7761469",
+    "imdb": "tt1091921",
+    "tmdb": 7583
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 12
+}

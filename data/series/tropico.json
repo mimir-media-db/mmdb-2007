@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_tropico",
+  "title": "Trópico",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q7849179",
+    "imdb": "tt1039928",
+    "tmdb": 12833
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 100
+}

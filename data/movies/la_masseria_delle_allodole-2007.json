@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_masseria_delle_allodole_2007",
+  "title": "La Masseria Delle Allodole",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q622889",
+    "imdb": "tt0854672",
+    "tmdb": 2361
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 122
+}

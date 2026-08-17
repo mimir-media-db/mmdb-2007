@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_disney_channels_3_minute_game_show",
+  "title": "Disney Channel's 3 Minute Game Show",
+  "start_year": 2007,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q5282413",
+    "imdb": "tt1123451",
+    "tmdb": 20501
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 36
+}

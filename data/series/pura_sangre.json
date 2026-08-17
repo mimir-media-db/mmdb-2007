@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_pura_sangre",
+  "title": "Pura Sangre",
+  "start_year": 2007,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q3055198",
+    "imdb": "tt1095449",
+    "tmdb": 115081
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 104
+}

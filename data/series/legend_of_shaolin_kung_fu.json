@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_legend_of_shaolin_kung_fu",
+  "title": "A Legend of Shaolin Kung Fu",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q11036560",
+    "tmdb": 123069
+  },
+  "last_updated": "2026-08-17"
+}

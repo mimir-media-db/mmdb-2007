@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_state_of_mind",
+  "title": "State of Mind",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q3968478",
+    "imdb": "tt0824775",
+    "tmdb": 15301
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

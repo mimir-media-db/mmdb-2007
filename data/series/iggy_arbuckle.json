@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_iggy_arbuckle",
+  "title": "Iggy Arbuckle",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q2345327",
+    "imdb": "tt0963540",
+    "tmdb": 6674
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 52
+}

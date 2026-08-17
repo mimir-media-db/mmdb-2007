@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_whispering_of_the_trees_2007",
+  "title": "The Whispering of the Trees",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1167885",
+    "imdb": "tt1454455"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 55
+}

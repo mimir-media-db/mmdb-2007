@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_tv_land_myths_and_legends",
+  "title": "TV Land: Myths and Legends",
+  "start_year": 2007,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q7672358",
+    "imdb": "tt0946709",
+    "tmdb": 16995
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 14
+}

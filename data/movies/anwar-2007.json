@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_anwar_2007",
+  "title": "Anwar",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4778004",
+    "imdb": "tt0953306",
+    "tmdb": 46370
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

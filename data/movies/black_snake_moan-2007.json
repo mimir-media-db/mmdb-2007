@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_black_snake_moan_2007",
+  "title": "Black Snake Moan",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q468660",
+    "imdb": "tt0462200",
+    "tmdb": 7874
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 115
+}

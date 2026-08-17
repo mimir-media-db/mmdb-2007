@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lal_tuku_tuku_sadhaba_bahu_2007",
+  "title": "Lal Tuku Tuku Sadhaba Bahu",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6480103",
+    "imdb": "tt1440226",
+    "tmdb": 497350
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

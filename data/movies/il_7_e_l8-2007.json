@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_il_7_e_l8_2007",
+  "title": "Il 7 e l'8",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3792550",
+    "imdb": "tt0999864",
+    "tmdb": 48175
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 90
+}

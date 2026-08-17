@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lamento_2007",
+  "title": "Lamento",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1801529",
+    "imdb": "tt1042517",
+    "tmdb": 72053
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 92
+}

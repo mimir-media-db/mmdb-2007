@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_donna_detective",
+  "title": "Donna Detective",
+  "start_year": 2006,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q3713936",
+    "imdb": "tt1131145",
+    "tmdb": 41394
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 22
+}

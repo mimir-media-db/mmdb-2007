@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_corpus_callosum_2007",
+  "title": "Corpus Callosum",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5172623",
+    "imdb": "tt1382201"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wristcutters_a_love_story_2007",
+  "title": "Wristcutters: A Love Story",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2002073",
+    "imdb": "tt0477139",
+    "tmdb": 13198
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 88
+}

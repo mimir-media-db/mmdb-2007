@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_wolf_bar_co",
+  "title": "Wolf, Bär & Co.",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2588445",
+    "imdb": "tt1041680",
+    "tmdb": 41220
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 40
+}

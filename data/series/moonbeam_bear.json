@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_moonbeam_bear",
+  "title": "Moonbeam Bear",
+  "start_year": 2007,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q1195851",
+    "imdb": "tt1289611",
+    "tmdb": 66091
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 52
+}

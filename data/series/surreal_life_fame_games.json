@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_surreal_life_fame_games",
+  "title": "The Surreal Life: Fame Games",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q7767533",
+    "imdb": "tt0762041",
+    "tmdb": 3646
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

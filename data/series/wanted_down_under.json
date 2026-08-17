@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_wanted_down_under",
+  "title": "Wanted Down Under",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7968162",
+    "imdb": "tt0944820",
+    "tmdb": 17570
+  },
+  "last_updated": "2026-08-17"
+}

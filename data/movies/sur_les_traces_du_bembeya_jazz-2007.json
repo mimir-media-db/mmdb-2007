@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sur_les_traces_du_bembeya_jazz_2007",
+  "title": "Sur les traces du Bembeya Jazz",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3488223",
+    "imdb": "tt12656524",
+    "tmdb": 795130
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 80
+}

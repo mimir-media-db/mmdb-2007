@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_yo_gabba_gabba",
+  "title": "Yo Gabba Gabba!",
+  "start_year": 2007,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q640760",
+    "imdb": "tt0877512",
+    "tmdb": 14759
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 66
+}

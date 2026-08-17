@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_fiore_e_tinelli",
+  "title": "Fiore e Tinelli",
+  "start_year": 2006,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q3745853",
+    "imdb": "tt5647486",
+    "tmdb": 41511
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 41
+}

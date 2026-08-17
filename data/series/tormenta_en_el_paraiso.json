@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_tormenta_en_el_paraiso",
+  "title": "Tormenta en el paraíso",
+  "start_year": 2007,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q745033",
+    "imdb": "tt1220859",
+    "tmdb": 15354
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 185
+}

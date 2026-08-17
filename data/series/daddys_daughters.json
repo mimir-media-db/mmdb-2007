@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_daddys_daughters",
+  "title": "Daddy's Daughters",
+  "start_year": 2007,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q1969810",
+    "imdb": "tt1796154",
+    "tmdb": 45909
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 20,
+  "total_episodes": 410
+}

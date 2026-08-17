@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_falling_from_earth_2007",
+  "title": "Falling from Earth",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5432371",
+    "imdb": "tt1252287",
+    "tmdb": 577190
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

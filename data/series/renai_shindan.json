@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_renai_shindan",
+  "title": "Ren'ai shindan",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q3932542",
+    "imdb": "tt1912143",
+    "tmdb": 272688
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_crowned",
+  "title": "Crowned",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q15995008",
+    "imdb": "tt2620136"
+  },
+  "last_updated": "2026-08-17"
+}

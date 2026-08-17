@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_saawariya_2007",
+  "title": "Saawariya",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1519075",
+    "imdb": "tt0758053",
+    "tmdb": 16283
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 138
+}

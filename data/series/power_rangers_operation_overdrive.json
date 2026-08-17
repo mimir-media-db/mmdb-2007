@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_power_rangers_operation_overdrive",
+  "title": "Power Rangers Operation Overdrive",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q728783",
+    "imdb": "tt0784920",
+    "tmdb": 325510
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 32
+}

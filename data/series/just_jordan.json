@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_just_jordan",
+  "title": "Just Jordan",
+  "start_year": 2007,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q1714110",
+    "imdb": "tt0486935",
+    "tmdb": 898
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 29
+}

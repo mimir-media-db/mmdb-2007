@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_just_buried_2007",
+  "title": "Just Buried",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2060231",
+    "imdb": "tt0906326",
+    "tmdb": 15182
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 94
+}

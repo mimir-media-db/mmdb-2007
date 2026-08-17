@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_burn_notice",
+  "title": "Burn Notice",
+  "start_year": 2007,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q682825",
+    "imdb": "tt0810788",
+    "tmdb": 2919
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 111
+}

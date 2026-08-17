@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_halloween_2007",
+  "title": "Halloween",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q909063",
+    "imdb": "tt0373883",
+    "tmdb": 2082
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 109
+}

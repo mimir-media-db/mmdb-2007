@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_once_a_week_show",
+  "title": "The Once a Week Show",
+  "start_year": 2007,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q7754992"
+  },
+  "last_updated": "2026-08-17"
+}

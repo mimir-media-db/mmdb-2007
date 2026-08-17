@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_max_adventures",
+  "title": "Max Adventures",
+  "start_year": 2006,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q10327724",
+    "imdb": "tt9020770",
+    "tmdb": 138131
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 60
+}

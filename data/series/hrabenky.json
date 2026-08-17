@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_hrabenky",
+  "title": "Hraběnky",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q20851160",
+    "imdb": "tt1164828",
+    "tmdb": 91484
+  },
+  "last_updated": "2026-08-17"
+}

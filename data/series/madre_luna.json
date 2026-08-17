@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_madre_luna",
+  "title": "Madre Luna",
+  "start_year": 2007,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q649639",
+    "imdb": "tt1099222",
+    "tmdb": 5170
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 141
+}

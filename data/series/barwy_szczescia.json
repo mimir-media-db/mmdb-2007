@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_barwy_szczescia",
+  "title": "Barwy szczęścia",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q9166458",
+    "imdb": "tt1094354",
+    "tmdb": 53270
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 9,
+  "total_episodes": 2417
+}

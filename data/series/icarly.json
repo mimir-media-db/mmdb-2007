@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_icarly",
+  "title": "iCarly",
+  "start_year": 2007,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q3013",
+    "imdb": "tt0972534",
+    "tmdb": 5371
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 97
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_charly_2007",
+  "title": "Charly",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2961067",
+    "imdb": "tt0494045",
+    "tmdb": 9580
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 95
+}

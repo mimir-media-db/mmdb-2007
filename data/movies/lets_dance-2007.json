@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lets_dance_2007",
+  "title": "Let's Dance",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3067519",
+    "imdb": "tt0864691",
+    "tmdb": 15833
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 100
+}

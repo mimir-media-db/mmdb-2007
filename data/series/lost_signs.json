@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_lost_signs",
+  "title": "Lost Signs",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q3331767",
+    "imdb": "tt0997268",
+    "tmdb": 31943
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

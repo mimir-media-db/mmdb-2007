@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_best_evidence",
+  "title": "Best Evidence",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4896639",
+    "imdb": "tt1156201",
+    "tmdb": 16579
+  },
+  "last_updated": "2026-08-17"
+}

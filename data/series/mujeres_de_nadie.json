@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mujeres_de_nadie",
+  "title": "Mujeres de nadie",
+  "start_year": 2007,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q6026028",
+    "imdb": "tt1065528",
+    "tmdb": 70713
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 316
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_audience_of_one_2007",
+  "title": "Audience of One",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4819770",
+    "imdb": "tt0976087",
+    "tmdb": 38130
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

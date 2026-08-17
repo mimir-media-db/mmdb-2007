@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_voice_of_a_murderer_2007",
+  "title": "Voice of a Murderer",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q491549",
+    "imdb": "tt0969268",
+    "tmdb": 104176
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 122
+}

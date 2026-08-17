@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_confessions_of_a_superhero_2007",
+  "title": "Confessions of a Superhero",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5160028",
+    "imdb": "tt1016164",
+    "tmdb": 16509
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 92
+}

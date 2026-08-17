@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fool_final_2007",
+  "title": "Fool & Final",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1435966",
+    "imdb": "tt0493417",
+    "tmdb": 156288
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 143
+}

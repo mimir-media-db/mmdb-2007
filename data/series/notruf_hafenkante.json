@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_notruf_hafenkante",
+  "title": "Notruf Hafenkante",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q321085",
+    "imdb": "tt0940902",
+    "tmdb": 36301
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 18,
+  "total_episodes": 458
+}

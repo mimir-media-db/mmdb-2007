@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_laria_del_lago_2007",
+  "title": "L'aria del lago",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3818729",
+    "imdb": "tt1320229",
+    "tmdb": 1608702
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 144
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ice_road_truckers",
+  "title": "Ice Road Truckers",
+  "start_year": 2007,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q702432",
+    "imdb": "tt1068912",
+    "tmdb": 3780
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 11,
+  "total_episodes": 138
+}

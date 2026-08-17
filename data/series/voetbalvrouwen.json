@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_voetbalvrouwen",
+  "title": "Voetbalvrouwen",
+  "start_year": 2007,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q2610443",
+    "imdb": "tt0827166",
+    "tmdb": 16900
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 36
+}

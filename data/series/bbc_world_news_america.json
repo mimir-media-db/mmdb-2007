@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_bbc_world_news_america",
+  "title": "BBC World News America",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4835020",
+    "imdb": "tt1259254",
+    "tmdb": 6883
+  },
+  "last_updated": "2026-08-17"
+}

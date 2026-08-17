@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_movie_connections",
+  "title": "Movie Connections",
+  "start_year": 2007,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q6926831",
+    "imdb": "tt1101386",
+    "tmdb": 14029
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_market_watch",
+  "title": "Market Watch",
+  "start_year": 2007,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q6770772"
+  },
+  "last_updated": "2026-08-17"
+}

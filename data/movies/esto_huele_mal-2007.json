@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_esto_huele_mal_2007",
+  "title": "Esto huele mal",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5401415",
+    "imdb": "tt1092059",
+    "tmdb": 327501
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 100
+}

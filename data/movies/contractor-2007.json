@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_contractor_2007",
+  "title": "The Contractor",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2300207",
+    "imdb": "tt0770806",
+    "tmdb": 15071
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 98
+}

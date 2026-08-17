@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_teen_spirit_2007",
+  "title": "Teen Spirit",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3517242",
+    "imdb": "tt0864911",
+    "tmdb": 40419
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 90
+}

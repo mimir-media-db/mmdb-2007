@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_koest_2007",
+  "title": "Koest",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2136499",
+    "imdb": "tt1303220",
+    "tmdb": 351431
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

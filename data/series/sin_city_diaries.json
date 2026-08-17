@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sin_city_diaries",
+  "title": "Sin City Diaries",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q19798762",
+    "imdb": "tt1001481",
+    "tmdb": 27593
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

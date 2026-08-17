@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_princess_sarah",
+  "title": "Princess Sarah",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q7244814",
+    "imdb": "tt1141162",
+    "tmdb": 6893
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 30
+}

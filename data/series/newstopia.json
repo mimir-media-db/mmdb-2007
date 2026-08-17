@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_newstopia",
+  "title": "Newstopia",
+  "start_year": 2007,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q7019877",
+    "imdb": "tt1099236",
+    "tmdb": 15373
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 30
+}

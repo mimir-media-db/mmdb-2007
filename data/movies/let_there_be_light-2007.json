@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_let_there_be_light_2007",
+  "title": "Let There Be Light",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6972440",
+    "imdb": "tt3640368"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 58
+}

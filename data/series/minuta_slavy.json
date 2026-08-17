@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_minuta_slavy",
+  "title": "Minuta slavy",
+  "start_year": 2007,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q2026107",
+    "tmdb": 35991
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 164
+}

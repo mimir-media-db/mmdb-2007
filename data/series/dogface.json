@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_dogface",
+  "title": "Dogface",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5288331",
+    "imdb": "tt1193712",
+    "tmdb": 14606
+  },
+  "last_updated": "2026-08-17"
+}

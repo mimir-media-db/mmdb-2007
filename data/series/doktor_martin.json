@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_doktor_martin",
+  "title": "Doktor Martin",
+  "start_year": 2007,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q1235073",
+    "imdb": "tt1063745",
+    "tmdb": 40821
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 14
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_la_galere",
+  "title": "La galère",
+  "start_year": 2007,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q3209348",
+    "imdb": "tt0880584",
+    "tmdb": 100035
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 62
+}

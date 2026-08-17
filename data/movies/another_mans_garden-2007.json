@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_another_mans_garden_2007",
+  "title": "Another Man's Garden",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6047803",
+    "imdb": "tt1802504",
+    "tmdb": 276487
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dyuymovochka_2007",
+  "title": "Dyuymovochka",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4172195",
+    "imdb": "tt0764235",
+    "tmdb": 256600
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_music_idol",
+  "title": "Music Idol",
+  "start_year": 2007,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q3623676"
+  },
+  "last_updated": "2026-08-17"
+}

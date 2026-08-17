@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_walking_tall_the_payback_2007",
+  "title": "Walking Tall: The Payback",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2542479",
+    "imdb": "tt0804550",
+    "tmdb": 15066
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 88
+}

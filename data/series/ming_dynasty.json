@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_ming_dynasty",
+  "title": "Ming Dynasty",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q6864636",
+    "imdb": "tt7050996",
+    "tmdb": 101565
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 42
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_camp_lazlo_wheres_lazlo_2007",
+  "title": "Camp Lazlo: Where's Lazlo?",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5027334",
+    "imdb": "tt0955484",
+    "tmdb": 432266
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

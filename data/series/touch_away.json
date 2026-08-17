@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_touch_away",
+  "title": "A Touch Away",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q4660209",
+    "imdb": "tt0896576",
+    "tmdb": 38901
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

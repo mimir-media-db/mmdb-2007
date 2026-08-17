@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_destination_truth",
+  "title": "Destination Truth",
+  "start_year": 2007,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q3024678",
+    "imdb": "tt0941372",
+    "tmdb": 4706
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 55
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_flint_2007",
+  "title": "Flint",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4240134",
+    "imdb": "tt0905618",
+    "tmdb": 64393
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 82
+}

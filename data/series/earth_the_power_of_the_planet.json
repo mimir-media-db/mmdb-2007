@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_earth_the_power_of_the_planet",
+  "title": "Earth: The Power of the Planet",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q5327015",
+    "imdb": "tt1145500",
+    "tmdb": 28877
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 5
+}

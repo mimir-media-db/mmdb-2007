@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_henaut_president",
+  "title": "Hénaut Président",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3144965",
+    "imdb": "tt0997402",
+    "tmdb": 81311
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 70
+}

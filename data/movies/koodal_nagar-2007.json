@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_koodal_nagar_2007",
+  "title": "Koodal Nagar",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6430511",
+    "imdb": "tt1621809",
+    "tmdb": 79790
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

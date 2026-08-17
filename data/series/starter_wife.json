@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_starter_wife",
+  "title": "The Starter Wife",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q590145",
+    "imdb": "tt0810726",
+    "tmdb": 5900
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

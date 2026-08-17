@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wizard_of_gore_2007",
+  "title": "The Wizard of Gore",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1165994",
+    "imdb": "tt0765487",
+    "tmdb": 13903
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 91
+}

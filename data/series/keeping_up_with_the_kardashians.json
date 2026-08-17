@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_keeping_up_with_the_kardashians",
+  "title": "Keeping Up with the Kardashians",
+  "start_year": 2007,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q152108",
+    "imdb": "tt1086761",
+    "tmdb": 14814
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 20,
+  "total_episodes": 280
+}

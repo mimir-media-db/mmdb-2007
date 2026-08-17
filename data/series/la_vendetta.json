@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_la_vendetta",
+  "title": "La Vendetta",
+  "start_year": 2007,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q6465668",
+    "imdb": "tt1119177",
+    "tmdb": 14910
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 60
+}

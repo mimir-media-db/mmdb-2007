@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_armed_famous",
+  "title": "Armed & Famous",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q2862139",
+    "imdb": "tt0921875",
+    "tmdb": 4778
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

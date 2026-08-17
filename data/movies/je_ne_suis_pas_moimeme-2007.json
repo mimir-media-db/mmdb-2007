@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_je_ne_suis_pas_moimeme_2007",
+  "title": "Je ne suis pas moi-même",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3163475",
+    "imdb": "tt2792396",
+    "tmdb": 988889
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

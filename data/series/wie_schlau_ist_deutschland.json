@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_wie_schlau_ist_deutschland",
+  "title": "Wie schlau ist Deutschland?",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2568164",
+    "imdb": "tt1010369"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 9
+}

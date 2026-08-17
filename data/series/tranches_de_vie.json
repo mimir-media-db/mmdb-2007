@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_tranches_de_vie",
+  "title": "Tranches de vie",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3537291"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 156
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_capital_connection",
+  "title": "Capital Connection",
+  "start_year": 2007,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q5035537",
+    "imdb": "tt2410600",
+    "tmdb": 4923
+  },
+  "last_updated": "2026-08-17"
+}

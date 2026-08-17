@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ganes_2007",
+  "title": "Ganes",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4133266",
+    "imdb": "tt0909388",
+    "tmdb": 20158
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 107
+}

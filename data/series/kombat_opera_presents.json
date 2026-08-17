@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_kombat_opera_presents",
+  "title": "Kombat Opera Presents",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q6428246",
+    "imdb": "tt0993324",
+    "tmdb": 12590
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 5
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dame_edna_treatment",
+  "title": "The Dame Edna Treatment",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q7728779",
+    "imdb": "tt0983954",
+    "tmdb": 4201
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 7
+}

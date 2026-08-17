@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_route",
+  "title": "The Route",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q4283302",
+    "imdb": "tt11219362",
+    "tmdb": 294137
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_beyond_belief_2007",
+  "title": "Beyond Belief",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4899932",
+    "imdb": "tt0989618",
+    "tmdb": 14420
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_shooting_stars",
+  "title": "Shooting Stars",
+  "start_year": 2007,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q3236577",
+    "imdb": "tt0954910",
+    "tmdb": 90858
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 26
+}

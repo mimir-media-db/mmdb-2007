@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_al_murrays_happy_hour",
+  "title": "Al Murray's Happy Hour",
+  "start_year": 2007,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q16258842",
+    "imdb": "tt0954409",
+    "tmdb": 4726
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 29
+}

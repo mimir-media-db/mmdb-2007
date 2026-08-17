@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_siglo_con_frida_frida_kahlo_un_homenaje_nacional_2007",
+  "title": "Siglo con Frida: Frida Kahlo, Un Homenaje nacional",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3960336",
+    "imdb": "tt1068667"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 30
+}

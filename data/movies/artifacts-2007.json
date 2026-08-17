@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_artifacts_2007",
+  "title": "Artifacts",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4801011",
+    "imdb": "tt1219820",
+    "tmdb": 57085
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 75
+}

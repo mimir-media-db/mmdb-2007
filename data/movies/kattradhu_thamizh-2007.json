@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kattradhu_thamizh_2007",
+  "title": "Kattradhu Thamizh",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3532427",
+    "imdb": "tt1501298",
+    "tmdb": 69550
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

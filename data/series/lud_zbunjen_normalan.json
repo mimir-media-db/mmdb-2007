@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_lud_zbunjen_normalan",
+  "title": "Lud, zbunjen, normalan",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q949460",
+    "imdb": "tt1093078",
+    "tmdb": 15612
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 10,
+  "total_episodes": 264
+}

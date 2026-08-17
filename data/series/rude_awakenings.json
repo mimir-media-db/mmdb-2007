@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_rude_awakenings",
+  "title": "Rude Awakenings",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q7376864",
+    "imdb": "tt0985477",
+    "tmdb": 3964
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 11
+}

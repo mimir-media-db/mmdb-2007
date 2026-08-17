@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_big_brother_2007",
+  "title": "Big Brother",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4905238",
+    "imdb": "tt0476762",
+    "tmdb": 192339
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_irene_huss",
+  "title": "Irene Huss",
+  "start_year": 2007,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q1672520",
+    "imdb": "tt6410134",
+    "tmdb": 57392
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

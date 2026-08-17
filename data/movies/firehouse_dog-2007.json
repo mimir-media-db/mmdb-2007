@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_firehouse_dog_2007",
+  "title": "Firehouse Dog",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2194964",
+    "imdb": "tt0476995",
+    "tmdb": 10107
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 111
+}

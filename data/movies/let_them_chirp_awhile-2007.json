@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_let_them_chirp_awhile_2007",
+  "title": "Let Them Chirp Awhile",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6532965",
+    "imdb": "tt0857285",
+    "tmdb": 156377
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

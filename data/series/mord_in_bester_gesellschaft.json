@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_mord_in_bester_gesellschaft",
+  "title": "Mord in bester Gesellschaft",
+  "start_year": 2007,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q870243",
+    "imdb": "tt1325270",
+    "tmdb": 40872
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 15
+}

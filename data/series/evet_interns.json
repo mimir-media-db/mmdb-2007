@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_evet_interns",
+  "title": "E-Vet Interns",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5321475",
+    "imdb": "tt0956274",
+    "tmdb": 9911
+  },
+  "last_updated": "2026-08-17"
+}

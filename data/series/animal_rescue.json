@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_animal_rescue",
+  "title": "Animal Rescue",
+  "start_year": 2006,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q4161758",
+    "imdb": "tt0335617",
+    "tmdb": 9242
+  },
+  "last_updated": "2026-08-17"
+}

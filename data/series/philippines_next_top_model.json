@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_philippines_next_top_model",
+  "title": "Philippines' Next Top Model",
+  "start_year": 2007,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q7185402",
+    "imdb": "tt1456259",
+    "tmdb": 5426
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 13
+}

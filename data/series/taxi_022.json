@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_taxi_022",
+  "title": "Taxi 0-22",
+  "start_year": 2007,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q3516383",
+    "imdb": "tt0990421",
+    "tmdb": 13689
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 43
+}

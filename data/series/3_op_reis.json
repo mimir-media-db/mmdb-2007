@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_3_op_reis",
+  "title": "3 op Reis",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3326031",
+    "imdb": "tt1821720",
+    "tmdb": 62092
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 21
+}

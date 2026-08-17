@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_state_of_us",
+  "title": "The State of Us",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q7766397",
+    "imdb": "tt1020928",
+    "tmdb": 2988
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 4
+}

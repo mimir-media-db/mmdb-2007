@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_asi",
+  "title": "Asi",
+  "start_year": 2007,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q1283086",
+    "imdb": "tt1147691",
+    "tmdb": 31252
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 71
+}

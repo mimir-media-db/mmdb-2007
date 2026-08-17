@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_alien_agent_2007",
+  "title": "Alien Agent",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2647031",
+    "imdb": "tt0820466",
+    "tmdb": 19279
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 95
+}

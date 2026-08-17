@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_nuit_des_horloges_2007",
+  "title": "La nuit des horloges",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3211229",
+    "imdb": "tt1037811",
+    "tmdb": 104318
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 90
+}

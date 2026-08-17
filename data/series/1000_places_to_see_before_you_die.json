@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_1000_places_to_see_before_you_die",
+  "title": "1,000 Places to See Before You Die",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4545634",
+    "imdb": "tt0936451",
+    "tmdb": 12533
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

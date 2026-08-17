@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_blue_fish",
+  "title": "Blue Fish",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q7211529"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

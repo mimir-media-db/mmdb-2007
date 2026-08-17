@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bis_zum_ellenbogen_2007",
+  "title": "Bis zum Ellenbogen",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q865990",
+    "imdb": "tt0818108",
+    "tmdb": 3962
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 90
+}

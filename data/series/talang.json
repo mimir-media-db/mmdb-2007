@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_talang",
+  "title": "Talang",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3436878",
+    "imdb": "tt1020001",
+    "tmdb": 33007
+  },
+  "last_updated": "2026-08-17"
+}

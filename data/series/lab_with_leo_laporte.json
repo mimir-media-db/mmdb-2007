@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_lab_with_leo_laporte",
+  "title": "The Lab with Leo Laporte",
+  "start_year": 2007,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q7745045",
+    "imdb": "tt0997196",
+    "tmdb": 3528
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 195
+}

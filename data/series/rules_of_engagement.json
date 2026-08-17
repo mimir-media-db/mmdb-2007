@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_rules_of_engagement",
+  "title": "Rules of Engagement",
+  "start_year": 2007,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q498569",
+    "imdb": "tt0790772",
+    "tmdb": 2755
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 100
+}

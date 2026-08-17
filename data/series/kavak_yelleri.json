@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_kavak_yelleri",
+  "title": "Kavak Yelleri",
+  "start_year": 2007,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q1162150",
+    "imdb": "tt1034368",
+    "tmdb": 39322
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 170
+}

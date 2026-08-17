@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_college_tour",
+  "title": "College Tour",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q13473505"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 15,
+  "total_episodes": 24
+}

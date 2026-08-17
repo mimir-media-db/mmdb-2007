@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_chez_maupassant",
+  "title": "Chez Maupassant",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2963169",
+    "imdb": "tt0921768",
+    "tmdb": 78117
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 24
+}

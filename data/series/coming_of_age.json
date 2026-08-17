@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_coming_of_age",
+  "title": "Coming of Age",
+  "start_year": 2007,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q1983513",
+    "imdb": "tt1046904",
+    "tmdb": 15276
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 23
+}

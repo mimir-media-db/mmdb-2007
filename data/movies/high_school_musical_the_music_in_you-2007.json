@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_high_school_musical_the_music_in_you_2007",
+  "title": "High School Musical: The Music in You",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5756528",
+    "imdb": "tt1166813"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

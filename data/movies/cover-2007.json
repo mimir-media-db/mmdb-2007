@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cover_2007",
+  "title": "Cover",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5179154",
+    "imdb": "tt0765460",
+    "tmdb": 53529
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 98
+}

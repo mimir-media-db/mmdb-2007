@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_animal_exploration_with_jarod_miller",
+  "title": "Animal Exploration with Jarod Miller",
+  "start_year": 2007,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q4764798",
+    "imdb": "tt1156191",
+    "tmdb": 31693
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 46
+}

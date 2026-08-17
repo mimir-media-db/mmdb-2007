@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_the_land_of_women_2007",
+  "title": "In the Land of Women",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1517621",
+    "imdb": "tt0419843",
+    "tmdb": 13067
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 97
+}
