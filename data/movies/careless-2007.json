@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_careless_2007",
+  "title": "Careless",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108412197",
+    "imdb": "tt0834900",
+    "tmdb": 15595
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

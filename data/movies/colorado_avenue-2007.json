@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_colorado_avenue_2007",
+  "title": "Colorado Avenue",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10457208",
+    "imdb": "tt0848577",
+    "tmdb": 61121
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

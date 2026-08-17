@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_city_in_heat_2007",
+  "title": "City in Heat",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q284949",
+    "imdb": "tt0827700",
+    "tmdb": 146722
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-03-15",
+  "runtime_minutes": 104
+}

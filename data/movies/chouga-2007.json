@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chouga_2007",
+  "title": "Chouga",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2964586",
+    "imdb": "tt1141663",
+    "tmdb": 125541
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-09-18",
+  "runtime_minutes": 85
+}

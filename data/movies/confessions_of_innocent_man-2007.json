@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_confessions_of_innocent_man_2007",
+  "title": "confessions of innocent man",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59588884",
+    "imdb": "tt1260704",
+    "tmdb": 48640
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 52
+}

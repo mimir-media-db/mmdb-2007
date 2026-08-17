@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cains_descendant_2007",
+  "title": "Cain'S Descendant",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17226351",
+    "imdb": "tt0960789",
+    "tmdb": 537709
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

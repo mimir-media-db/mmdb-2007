@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ciao_bella_2007",
+  "title": "Ciao Bella",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10452700",
+    "imdb": "tt0986323",
+    "tmdb": 58390
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-08-03",
+  "runtime_minutes": 86
+}

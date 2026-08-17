@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cellar_door_2007",
+  "title": "The Cellar Door",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11338644",
+    "imdb": "tt0878657",
+    "tmdb": 18496
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

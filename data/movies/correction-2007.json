@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_correction_2007",
+  "title": "Correction",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q88188092",
+    "imdb": "tt1142826",
+    "tmdb": 151067
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-11-22",
+  "runtime_minutes": 83
+}

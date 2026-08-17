@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_craving_2007",
+  "title": "The Craving",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q90404599",
+    "imdb": "tt1116747",
+    "tmdb": 71519
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-09-26",
+  "runtime_minutes": 81
+}

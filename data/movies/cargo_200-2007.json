@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cargo_200_2007",
+  "title": "Cargo 200",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2196619",
+    "imdb": "tt0847880",
+    "tmdb": 34869
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-06-14",
+  "runtime_minutes": 85
+}

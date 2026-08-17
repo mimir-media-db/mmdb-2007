@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chak_de_india_2007",
+  "title": "Chak De! India",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1029548",
+    "imdb": "tt0871510",
+    "tmdb": 14163
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-08-10",
+  "runtime_minutes": 152
+}

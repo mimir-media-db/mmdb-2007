@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_crown_witness_2007",
+  "title": "The Crown Witness",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9395973",
+    "imdb": "tt0982939",
+    "tmdb": 64212
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-02-02"
+}

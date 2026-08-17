@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_conceicao_autor_bom_e_autor_morto_2007",
+  "title": "Conceição: Autor Bom é Autor Morto",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18479038",
+    "imdb": "tt1081957",
+    "tmdb": 272933
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 78
+}
