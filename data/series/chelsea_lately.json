@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_chelsea_lately",
+  "title": "Chelsea Lately",
+  "start_year": 2007,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q2892062",
+    "imdb": "tt1002838",
+    "tmdb": 13189
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 1048
+}

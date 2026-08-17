@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_cmt_comedy_stage",
+  "title": "CMT Comedy Stage",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5013023",
+    "imdb": "tt0972536"
+  },
+  "last_updated": "2026-08-17"
+}

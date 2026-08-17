@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_cooking_with_dog",
+  "title": "Cooking with Dog",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q24039633",
+    "imdb": "tt4771246"
+  },
+  "last_updated": "2026-08-17"
+}

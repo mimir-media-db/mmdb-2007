@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_con_test",
+  "title": "The Con Test",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q7727255",
+    "imdb": "tt0969661",
+    "tmdb": 1339
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

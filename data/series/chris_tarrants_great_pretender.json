@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_chris_tarrants_great_pretender",
+  "title": "Chris Tarrant's Great Pretender",
+  "start_year": 2007,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q5108224",
+    "imdb": "tt1164822",
+    "tmdb": 14439
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 30
+}

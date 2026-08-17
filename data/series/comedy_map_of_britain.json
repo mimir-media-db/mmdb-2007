@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_comedy_map_of_britain",
+  "title": "Comedy Map of Britain",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5151461",
+    "imdb": "tt0954381",
+    "tmdb": 16937
+  },
+  "last_updated": "2026-08-17"
+}

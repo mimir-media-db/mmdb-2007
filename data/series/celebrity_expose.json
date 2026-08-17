@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_celebrity_expose",
+  "title": "Celebrity Exposé",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5057730",
+    "imdb": "tt1092302",
+    "tmdb": 8759
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_csillag_szuletik",
+  "title": "Csillag születik",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q873171",
+    "imdb": "tt10644236",
+    "tmdb": 33016
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4
+}
