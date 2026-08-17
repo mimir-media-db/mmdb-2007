@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mantra_2007",
+  "title": "Mantra",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6752182",
+    "imdb": "tt1606286",
+    "tmdb": 81085
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

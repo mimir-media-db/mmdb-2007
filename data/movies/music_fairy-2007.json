@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_music_fairy_2007",
+  "title": "A Music Fairy",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4658411"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}
