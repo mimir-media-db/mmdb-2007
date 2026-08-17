@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_vipo_adventures_of_the_flying_dog",
+  "title": "Vipo: Adventures of the Flying Dog",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q947165",
+    "imdb": "tt1293486",
+    "tmdb": 60325
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 26
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_visions_of_the_future",
+  "title": "Visions of the Future",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q7936264",
+    "imdb": "tt1518144",
+    "tmdb": 5563
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 3
+}

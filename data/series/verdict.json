@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_verdict",
+  "title": "The Verdict",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q7772202",
+    "imdb": "tt0862633",
+    "tmdb": 4851
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 5
+}

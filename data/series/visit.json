@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_visit",
+  "title": "The Visit",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q7772892",
+    "imdb": "tt1086762",
+    "tmdb": 13774
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 7
+}
