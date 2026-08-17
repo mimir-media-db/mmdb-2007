@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_fat_march",
+  "title": "Fat March",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q5437211",
+    "imdb": "tt1079124",
+    "tmdb": 3447
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

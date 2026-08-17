@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_five_days",
+  "title": "Five Days",
+  "start_year": 2007,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q2972882",
+    "imdb": "tt0840094",
+    "tmdb": 4170
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 10
+}

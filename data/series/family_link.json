@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_family_link",
+  "title": "The Family Link",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q2127907",
+    "imdb": "tt1062774",
+    "tmdb": 5247
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 21
+}

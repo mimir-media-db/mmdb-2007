@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_ful_haus",
+  "title": "Ful Haus",
+  "start_year": 2007,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q5507770",
+    "imdb": "tt1161536",
+    "tmdb": 6638
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 107
+}

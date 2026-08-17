@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_firm",
+  "title": "The Firm",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12711487",
+    "imdb": "tt1095326"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 23
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_fais_pas_ci_fais_pas_ca",
+  "title": "Fais pas ci, fais pas ça",
+  "start_year": 2007,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q3064592",
+    "imdb": "tt1101174",
+    "tmdb": 35690
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 9,
+  "total_episodes": 68
+}

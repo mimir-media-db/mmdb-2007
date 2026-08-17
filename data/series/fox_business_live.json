@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_fox_business_live",
+  "title": "FOX Business Live",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q131608339",
+    "imdb": "tt7989888",
+    "tmdb": 133305
+  },
+  "last_updated": "2026-08-17"
+}
