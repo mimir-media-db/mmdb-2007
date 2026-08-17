@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kingdom_2007",
+  "title": "The Kingdom",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q467582",
+    "imdb": "tt0431197",
+    "tmdb": 4349
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 105
+}

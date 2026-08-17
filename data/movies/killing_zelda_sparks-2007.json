@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_killing_zelda_sparks_2007",
+  "title": "Killing Zelda Sparks",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q677390",
+    "imdb": "tt0487144",
+    "tmdb": 21577
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 95
+}
