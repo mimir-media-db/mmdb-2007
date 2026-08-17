@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_good_times_2007",
+  "title": "Good Times",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q830448",
+    "imdb": "tt0991269",
+    "tmdb": 2195
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 95
+}

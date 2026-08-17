@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_guillaume_et_les_sortileges_2007",
+  "title": "Guillaume et les sortilèges",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3120491",
+    "imdb": "tt0778733",
+    "tmdb": 480518
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 62
+}

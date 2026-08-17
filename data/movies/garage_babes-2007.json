@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_garage_babes_2007",
+  "title": "Garage Babes",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3095265",
+    "imdb": "tt1168636",
+    "tmdb": 13729
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}
