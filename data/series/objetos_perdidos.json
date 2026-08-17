@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_objetos_perdidos",
+  "title": "Objetos Perdidos",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q6048012",
+    "imdb": "tt0991265"
+  },
+  "last_updated": "2026-08-17"
+}

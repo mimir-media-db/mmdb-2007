@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_oben_ohne",
+  "title": "Oben ohne",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1230728",
+    "imdb": "tt0842420",
+    "tmdb": 41514
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 26
+}

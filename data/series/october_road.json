@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_october_road",
+  "title": "October Road",
+  "start_year": 2007,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q1891872",
+    "imdb": "tt0756573",
+    "tmdb": 1255
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 19
+}

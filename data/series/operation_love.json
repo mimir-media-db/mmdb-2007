@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_operation_love",
+  "title": "Operation Love",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q1204706",
+    "imdb": "tt0978140",
+    "tmdb": 14037
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 11
+}
