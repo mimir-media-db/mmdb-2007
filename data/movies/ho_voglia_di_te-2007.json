@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ho_voglia_di_te_2007",
+  "title": "Ho voglia di te",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3786062",
+    "imdb": "tt0877522",
+    "tmdb": 21943
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 110
+}

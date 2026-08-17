@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_house_of_fears_2007",
+  "title": "House of Fears",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5914917",
+    "imdb": "tt1002992",
+    "tmdb": 45102
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 82
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hooked_on_you_2007",
+  "title": "Hooked on You",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5898018",
+    "imdb": "tt1020976",
+    "tmdb": 86425
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 97
+}

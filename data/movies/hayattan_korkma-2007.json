@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hayattan_korkma_2007",
+  "title": "Hayattan Korkma",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6099742",
+    "imdb": "tt1069266",
+    "tmdb": 52132
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 103
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hot_and_fluffy_2007",
+  "title": "Hot and Fluffy",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5910651",
+    "imdb": "tt1082588",
+    "tmdb": 20720
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 60
+}

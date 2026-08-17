@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_heros_2007",
+  "title": "Héros",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3145056",
+    "imdb": "tt0814143",
+    "tmdb": 58856
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 116
+}
