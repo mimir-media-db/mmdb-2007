@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_care_bears_oopsy_does_it_2007",
+  "title": "Care Bears: Oopsy Does It!",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5038842",
+    "imdb": "tt0902265",
+    "tmdb": 36007
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 72
+}

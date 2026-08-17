@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_carved_2007",
+  "title": "Carved",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2940707",
+    "imdb": "tt0891520",
+    "tmdb": 25744
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 90
+}

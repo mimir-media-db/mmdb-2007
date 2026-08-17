@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chasing_ghosts_beyond_the_arcade_2007",
+  "title": "Chasing Ghosts: Beyond the Arcade",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3206537",
+    "imdb": "tt0479879",
+    "tmdb": 15725
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 90
+}

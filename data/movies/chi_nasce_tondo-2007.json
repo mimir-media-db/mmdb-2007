@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chi_nasce_tondo_2007",
+  "title": "Chi nasce tondo...",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3667370",
+    "imdb": "tt1226219",
+    "tmdb": 79629
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 85
+}

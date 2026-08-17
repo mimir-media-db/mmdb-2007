@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chill_2007",
+  "title": "Chill",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5098991",
+    "imdb": "tt0862892",
+    "tmdb": 52685
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 88
+}
