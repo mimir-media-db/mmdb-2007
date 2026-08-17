@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fourth_man_2007",
+  "title": "The Fourth Man",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15304820",
+    "imdb": "tt0930856",
+    "tmdb": 26836
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

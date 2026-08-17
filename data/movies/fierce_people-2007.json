@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fierce_people_2007",
+  "title": "Fierce People",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1754202",
+    "imdb": "tt0401420",
+    "tmdb": 19583
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-09-30",
+  "runtime_minutes": 111
+}

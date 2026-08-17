@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fucking_different_new_york_2007",
+  "title": "Fucking Different New York",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q46034631",
+    "imdb": "tt0969266",
+    "tmdb": 509044
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-02-10"
+}

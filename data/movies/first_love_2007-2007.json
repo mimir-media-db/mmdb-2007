@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_first_love_2007_2007",
+  "title": "First Love 2007",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11396513",
+    "imdb": "tt1173716",
+    "tmdb": 377905
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fountain_2007",
+  "title": "The Fountain",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q842770",
+    "imdb": "tt0414993",
+    "tmdb": 1381
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-18",
+  "runtime_minutes": 96
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_flying_scotsman_2007",
+  "title": "The Flying Scotsman",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q835563",
+    "imdb": "tt0472268",
+    "tmdb": 15008
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-07-05",
+  "runtime_minutes": 103
+}
