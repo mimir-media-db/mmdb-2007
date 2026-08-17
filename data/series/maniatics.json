@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_maniatics",
+  "title": "Maniàtics",
+  "start_year": 2007,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q5991573",
+    "imdb": "tt1981902",
+    "tmdb": 310085
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 52
+}

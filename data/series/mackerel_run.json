@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_mackerel_run",
+  "title": "Mackerel Run",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q12591011",
+    "imdb": "tt4193068",
+    "tmdb": 52720
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_magic_kamison",
+  "title": "Magic Kamison",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q6730730",
+    "imdb": "tt0975316",
+    "tmdb": 2914
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 19
+}

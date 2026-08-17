@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mi_high",
+  "title": "M.I. High",
+  "start_year": 2007,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q1040434",
+    "imdb": "tt0943690",
+    "tmdb": 6513
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 88
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_madame_hollywood",
+  "title": "Madame Hollywood",
+  "start_year": 2007,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q3275283",
+    "imdb": "tt1034980"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 3
+}

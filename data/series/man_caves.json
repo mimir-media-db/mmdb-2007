@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_man_caves",
+  "title": "Man Caves",
+  "start_year": 2007,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q16237939",
+    "imdb": "tt0995059",
+    "tmdb": 29766
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 13,
+  "total_episodes": 134
+}

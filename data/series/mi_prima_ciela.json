@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_mi_prima_ciela",
+  "title": "Mi prima Ciela",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q3068910",
+    "imdb": "tt1042735",
+    "tmdb": 25666
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 157
+}

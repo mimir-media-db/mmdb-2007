@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_matay_nitnashek",
+  "title": "Matay Nitnashek",
+  "start_year": 2006,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q26268739",
+    "imdb": "tt0925510",
+    "tmdb": 253051
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

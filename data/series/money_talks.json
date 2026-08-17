@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_money_talks",
+  "title": "Money Talks",
+  "start_year": 2007,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q6899192",
+    "imdb": "tt4629638",
+    "tmdb": 18509
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 119
+}

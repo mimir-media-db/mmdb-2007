@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_manswers",
+  "title": "Manswers",
+  "start_year": 2007,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q9088020",
+    "imdb": "tt0942628",
+    "tmdb": 18606
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 39
+}

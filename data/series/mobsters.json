@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mobsters",
+  "title": "Mobsters",
+  "start_year": 2007,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q15036301",
+    "imdb": "tt1280729",
+    "tmdb": 30064
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 49
+}

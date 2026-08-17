@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_myster_mocky_presente",
+  "title": "Myster Mocky présente",
+  "start_year": 2007,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q3331717",
+    "imdb": "tt1169188",
+    "tmdb": 40001
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 41
+}

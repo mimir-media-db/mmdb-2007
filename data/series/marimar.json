@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_marimar",
+  "title": "MariMar",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3287352",
+    "imdb": "tt1050289",
+    "tmdb": 4181
+  },
+  "last_updated": "2026-08-17"
+}

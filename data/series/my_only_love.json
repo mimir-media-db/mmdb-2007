@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_my_only_love",
+  "title": "My Only Love",
+  "start_year": 2007,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q12968444",
+    "imdb": "tt1124929",
+    "tmdb": 6814
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 79
+}
