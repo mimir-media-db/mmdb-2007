@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_screenz",
+  "title": "Screenz",
+  "start_year": 2006,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q12409328",
+    "imdb": "tt1086237",
+    "tmdb": 258998
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 100
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_samsam",
+  "title": "SamSam",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2630580",
+    "imdb": "tt2924740",
+    "tmdb": 62206
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 91
+}

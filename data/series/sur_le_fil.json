@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sur_le_fil",
+  "title": "Sur le fil",
+  "start_year": 2007,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q3505050",
+    "imdb": "tt1107290",
+    "tmdb": 70867
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 18
+}

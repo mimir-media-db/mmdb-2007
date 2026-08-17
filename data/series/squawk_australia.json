@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_squawk_australia",
+  "title": "Squawk Australia",
+  "start_year": 2007,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q3473079"
+  },
+  "last_updated": "2026-08-17"
+}

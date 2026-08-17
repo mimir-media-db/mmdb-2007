@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_seehund_puma_co",
+  "title": "Seehund, Puma & Co.",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2265000",
+    "imdb": "tt1158608",
+    "tmdb": 41065
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 215
+}

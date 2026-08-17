@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_shrink_rap",
+  "title": "Shrink Rap",
+  "start_year": 2007,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q7504133",
+    "imdb": "tt1003240",
+    "tmdb": 7450
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 12
+}

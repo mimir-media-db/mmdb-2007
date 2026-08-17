@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_seouls_sad_song",
+  "title": "Seoul's Sad Song",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q484397",
+    "imdb": "tt6385912",
+    "tmdb": 18398
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

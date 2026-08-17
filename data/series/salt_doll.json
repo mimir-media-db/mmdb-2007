@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_salt_doll",
+  "title": "Salt Doll",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q6654007",
+    "tmdb": 28050
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 20
+}

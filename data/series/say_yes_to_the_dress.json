@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_say_yes_to_the_dress",
+  "title": "Say Yes to the Dress",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2855875",
+    "imdb": "tt1166709",
+    "tmdb": 31306
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 10,
+  "total_episodes": 181
+}

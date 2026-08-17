@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_super_idol",
+  "title": "Super Idol",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7642448",
+    "imdb": "tt1654764",
+    "tmdb": 48571
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7
+}

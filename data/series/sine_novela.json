@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_sine_novela",
+  "title": "Sine Novela",
+  "start_year": 2007,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q16949854",
+    "imdb": "tt1039415",
+    "tmdb": 2881
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 1727
+}

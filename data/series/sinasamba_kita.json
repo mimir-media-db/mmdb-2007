@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_sinasamba_kita",
+  "title": "Sinasamba Kita",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q12971113",
+    "imdb": "tt1044807",
+    "tmdb": 3647
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 65
+}

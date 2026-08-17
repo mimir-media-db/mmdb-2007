@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sushi_pack",
+  "title": "Sushi Pack",
+  "start_year": 2007,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q2929697",
+    "imdb": "tt1015453",
+    "tmdb": 6907
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 52
+}

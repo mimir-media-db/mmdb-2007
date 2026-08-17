@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_street_customs",
+  "title": "Street Customs",
+  "start_year": 2006,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q6326188",
+    "imdb": "tt1239148",
+    "tmdb": 42365
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 22
+}

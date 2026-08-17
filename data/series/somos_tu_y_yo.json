@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_somos_tu_y_yo",
+  "title": "Somos tú y yo",
+  "start_year": 2007,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q549336",
+    "imdb": "tt1230219",
+    "tmdb": 7509
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 145
+}

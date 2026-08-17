@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_shomoyer_kotha",
+  "title": "Shomoyer Kotha",
+  "start_year": 2007,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q10964548",
+    "imdb": "tt1238034",
+    "tmdb": 6983
+  },
+  "last_updated": "2026-08-17"
+}

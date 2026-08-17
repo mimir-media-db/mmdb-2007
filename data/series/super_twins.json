@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_super_twins",
+  "title": "Super Twins",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q7642893",
+    "imdb": "tt0969682",
+    "tmdb": 3148
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 78
+}
