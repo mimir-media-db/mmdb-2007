@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_yersiz_yurtsuz",
+  "title": "Yersiz Yurtsuz",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q20476989",
+    "imdb": "tt1002950",
+    "tmdb": 49604
+  },
+  "last_updated": "2026-08-17"
+}

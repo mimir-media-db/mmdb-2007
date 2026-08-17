@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_your_screen_test",
+  "title": "Your Screen Test",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q8058927",
+    "imdb": "tt6473506"
+  },
+  "last_updated": "2026-08-17"
+}
