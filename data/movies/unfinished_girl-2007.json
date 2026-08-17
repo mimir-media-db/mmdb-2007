@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_unfinished_girl_2007",
+  "title": "Unfinished Girl",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19840972",
+    "imdb": "tt1210803",
+    "tmdb": 314983
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

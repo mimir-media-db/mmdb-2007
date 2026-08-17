@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_unpolished_2007",
+  "title": "The Unpolished",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q62061838",
+    "imdb": "tt0315236",
+    "tmdb": 66174
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-27"
+}

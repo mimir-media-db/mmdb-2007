@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_uma_aventura_no_tempo_2007",
+  "title": "Uma Aventura no Tempo",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10387404",
+    "imdb": "tt0871896",
+    "tmdb": 51137
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-02-16",
+  "runtime_minutes": 80
+}
