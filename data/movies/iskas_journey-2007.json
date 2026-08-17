@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_iskas_journey_2007",
+  "title": "Iska's Journey",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16252931",
+    "imdb": "tt0867329",
+    "tmdb": 127690
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-02-02",
+  "runtime_minutes": 92
+}

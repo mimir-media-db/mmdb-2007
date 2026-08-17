@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_io_non_lo_so_2007",
+  "title": "Io non lo so",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130377547"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 68
+}

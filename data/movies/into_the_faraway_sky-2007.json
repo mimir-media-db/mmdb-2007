@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_into_the_faraway_sky_2007",
+  "title": "Into the Faraway Sky",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16305440",
+    "imdb": "tt0872029",
+    "tmdb": 19630
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_indrajith_2007",
+  "title": "Indrajith",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19572210",
+    "imdb": "tt1334457",
+    "tmdb": 700232
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

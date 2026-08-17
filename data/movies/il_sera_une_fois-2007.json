@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_il_sera_une_fois_2007",
+  "title": "Il sera une fois...",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55597261",
+    "imdb": "tt0436419",
+    "tmdb": 575306
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 78
+}

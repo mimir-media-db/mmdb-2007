@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_il_giorno_la_notte_poi_lalba_2007",
+  "title": "Il giorno, la notte. Poi l'alba",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56508228",
+    "imdb": "tt1390470",
+    "tmdb": 570809
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 93
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ideal_wife_2007",
+  "title": "Ideal Wife",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16689840",
+    "imdb": "tt1524543",
+    "tmdb": 223340
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}
