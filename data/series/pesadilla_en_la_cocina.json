@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_pesadilla_en_la_cocina",
+  "title": "Pesadilla en la cocina",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2531243",
+    "imdb": "tt0983514",
+    "tmdb": 11294
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 9,
+  "total_episodes": 112
+}

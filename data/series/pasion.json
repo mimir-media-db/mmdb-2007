@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_pasion",
+  "title": "Pasión",
+  "start_year": 2007,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q1247303",
+    "imdb": "tt1091916",
+    "tmdb": 6697
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 95
+}

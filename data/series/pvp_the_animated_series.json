@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_pvp_the_animated_series",
+  "title": "PvP: The Animated Series",
+  "start_year": 2006,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q130302241",
+    "imdb": "tt0989755"
+  },
+  "last_updated": "2026-08-17"
+}

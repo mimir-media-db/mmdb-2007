@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_philippine_agenda",
+  "title": "Philippine Agenda",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q7184940",
+    "imdb": "tt1050070",
+    "tmdb": 4674
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

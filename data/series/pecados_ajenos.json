@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_pecados_ajenos",
+  "title": "Pecados Ajenos",
+  "start_year": 2007,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q1247680",
+    "imdb": "tt1042979",
+    "tmdb": 5110
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 167
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_project_runway_canada",
+  "title": "Project Runway Canada",
+  "start_year": 2007,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q7249288",
+    "imdb": "tt1158101",
+    "tmdb": 5726
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 23
+}

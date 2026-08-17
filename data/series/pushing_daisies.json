@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_pushing_daisies",
+  "title": "Pushing Daisies",
+  "start_year": 2007,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q515621",
+    "imdb": "tt0925266",
+    "tmdb": 5639
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 22
+}

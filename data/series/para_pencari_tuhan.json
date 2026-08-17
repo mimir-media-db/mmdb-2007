@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_para_pencari_tuhan",
+  "title": "Para Pencari Tuhan",
+  "start_year": 2007,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q12503072",
+    "imdb": "tt1998808",
+    "tmdb": 283496
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 19,
+  "total_episodes": 453
+}

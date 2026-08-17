@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_poker_after_dark",
+  "title": "Poker After Dark",
+  "start_year": 2006,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q1537703",
+    "imdb": "tt0971928",
+    "tmdb": 6058
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 474
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_private_practice",
+  "title": "Private Practice",
+  "start_year": 2007,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q283393",
+    "imdb": "tt0972412",
+    "tmdb": 3172
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 111
+}
