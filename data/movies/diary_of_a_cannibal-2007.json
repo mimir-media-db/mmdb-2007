@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_diary_of_a_cannibal_2007",
+  "title": "Diary of a Cannibal",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1209161",
+    "imdb": "tt0826817",
+    "tmdb": 28723
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 79
+}

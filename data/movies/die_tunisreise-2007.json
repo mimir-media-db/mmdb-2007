@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_die_tunisreise_2007",
+  "title": "Die Tunisreise",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3027344",
+    "imdb": "tt2713340",
+    "tmdb": 388128
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

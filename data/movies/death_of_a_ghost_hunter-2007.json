@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_death_of_a_ghost_hunter_2007",
+  "title": "Death of a Ghost Hunter",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1775999",
+    "imdb": "tt1160317",
+    "tmdb": 18441
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 107
+}

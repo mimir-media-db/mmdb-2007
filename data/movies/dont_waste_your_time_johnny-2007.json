@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dont_waste_your_time_johnny_2007",
+  "title": "Don't Waste Your Time, Johnny!",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3827318",
+    "imdb": "tt0827717",
+    "tmdb": 82478
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 104
+}

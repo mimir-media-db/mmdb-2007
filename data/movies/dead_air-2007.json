@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dead_air_2007",
+  "title": "Dead Air",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5245081",
+    "imdb": "tt4253318",
+    "tmdb": 448680
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

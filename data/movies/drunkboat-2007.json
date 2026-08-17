@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_drunkboat_2007",
+  "title": "Drunkboat",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3040128",
+    "imdb": "tt0460778",
+    "tmdb": 76820
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

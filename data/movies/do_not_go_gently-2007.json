@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_do_not_go_gently_2007",
+  "title": "Do Not Go Gently",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3033230",
+    "imdb": "tt0971164"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

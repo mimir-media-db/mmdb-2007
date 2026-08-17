@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_deaths_of_ian_stone_2007",
+  "title": "The Deaths of Ian Stone",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2314831",
+    "imdb": "tt0810823",
+    "tmdb": 12171
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 87
+}
