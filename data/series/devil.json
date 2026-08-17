@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_devil",
+  "title": "The Devil",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q484035",
+    "imdb": "tt1820124",
+    "tmdb": 46560
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 20
+}

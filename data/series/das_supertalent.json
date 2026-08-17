@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_das_supertalent",
+  "title": "Das Supertalent",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q837504",
+    "imdb": "tt1134766",
+    "tmdb": 32886
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7
+}

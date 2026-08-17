@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_die_sendung_mit_dem_elefanten",
+  "title": "Die Sendung mit dem Elefanten",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q735790",
+    "imdb": "tt1198168",
+    "tmdb": 41174
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 9,
+  "total_episodes": 250
+}

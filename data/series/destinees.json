@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_destinees",
+  "title": "Destinées",
+  "start_year": 2007,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q3024728",
+    "imdb": "tt1862656",
+    "tmdb": 67248
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 182
+}

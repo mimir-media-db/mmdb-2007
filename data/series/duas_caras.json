@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_duas_caras",
+  "title": "Duas Caras",
+  "start_year": 2007,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q1262765",
+    "imdb": "tt1124063",
+    "tmdb": 15429
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 210
+}

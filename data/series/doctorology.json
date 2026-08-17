@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_doctorology",
+  "title": "Doctor*Ology",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q3712434",
+    "imdb": "tt0876242",
+    "tmdb": 20600
+  },
+  "last_updated": "2026-08-17"
+}

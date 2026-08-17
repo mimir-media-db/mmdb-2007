@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_dog_tales",
+  "title": "Dog Tales",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5288227",
+    "imdb": "tt1229906",
+    "tmdb": 19946
+  },
+  "last_updated": "2026-08-17"
+}

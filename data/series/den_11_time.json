@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_den_11_time",
+  "title": "Den 11. time",
+  "start_year": 2007,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q5256450",
+    "imdb": "tt0971240"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 126
+}

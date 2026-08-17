@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dinosapien",
+  "title": "Dinosapien",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q2706038",
+    "imdb": "tt0805825",
+    "tmdb": 15283
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 15
+}

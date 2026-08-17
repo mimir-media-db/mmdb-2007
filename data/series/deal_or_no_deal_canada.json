@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_deal_or_no_deal_canada",
+  "title": "Deal or No Deal Canada",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q5245883",
+    "imdb": "tt0891692",
+    "tmdb": 3883
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 5
+}

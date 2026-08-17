@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dahoam_is_dahoam",
+  "title": "Dahoam is Dahoam",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q266028",
+    "imdb": "tt1111847",
+    "tmdb": 40879
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 16,
+  "total_episodes": 3138
+}

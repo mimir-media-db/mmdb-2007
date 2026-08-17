@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_detective_school_q",
+  "title": "Detective School Q",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q3980912",
+    "imdb": "tt1063021",
+    "tmdb": 92780
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 11
+}

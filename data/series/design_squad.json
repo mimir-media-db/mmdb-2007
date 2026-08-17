@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_design_squad",
+  "title": "Design Squad",
+  "start_year": 2007,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q5264301",
+    "imdb": "tt1039872",
+    "tmdb": 14400
+  },
+  "last_updated": "2026-08-17"
+}

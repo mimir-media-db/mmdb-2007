@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_damages",
+  "title": "Damages",
+  "start_year": 2007,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q912437",
+    "imdb": "tt0914387",
+    "tmdb": 4920
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 59
+}
