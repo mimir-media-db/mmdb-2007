@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kiss_of_life_2007",
+  "title": "Kiss of Life",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7810931",
+    "imdb": "tt1092002",
+    "tmdb": 16803
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

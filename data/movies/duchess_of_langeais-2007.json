@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_duchess_of_langeais_2007",
+  "title": "The Duchess of Langeais",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1410628",
+    "imdb": "tt0781435",
+    "tmdb": 46335
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-03-28",
+  "runtime_minutes": 137
+}

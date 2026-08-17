@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_neal_cassady_2007",
+  "title": "Neal Cassady",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16666250",
+    "imdb": "tt0808392",
+    "tmdb": 1713133
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 80
+}

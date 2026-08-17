@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ami_yasin_ar_amar_madhubala_2007",
+  "title": "Ami, Yasin Ar Amar Madhubala",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15043352",
+    "imdb": "tt1097209",
+    "tmdb": 230956
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

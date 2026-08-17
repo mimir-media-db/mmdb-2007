@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_autopsy_2007",
+  "title": "Autopsy",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9162691",
+    "imdb": "tt1101028",
+    "tmdb": 264230
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-09-14",
+  "runtime_minutes": 90
+}

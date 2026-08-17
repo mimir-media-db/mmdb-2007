@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_dont_want_to_sleep_alone_2007",
+  "title": "I Don't Want to Sleep Alone",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3147080",
+    "imdb": "tt0855824",
+    "tmdb": 12130
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-03-23",
+  "runtime_minutes": 118
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stefan_braun_2007",
+  "title": "Stefan Braun",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116978467",
+    "imdb": "tt1557883",
+    "tmdb": 1000601
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 62
+}

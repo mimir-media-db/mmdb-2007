@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mutum_2007",
+  "title": "Mutum",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27996401",
+    "imdb": "tt0848596",
+    "tmdb": 82409
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

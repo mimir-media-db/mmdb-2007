@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dead_time_kala_2007",
+  "title": "Dead Time: Kala",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1919726",
+    "imdb": "tt0946998",
+    "tmdb": 39023
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-04-19",
+  "runtime_minutes": 106
+}

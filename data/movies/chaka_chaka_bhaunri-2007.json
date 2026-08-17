@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chaka_chaka_bhaunri_2007",
+  "title": "Chaka Chaka Bhaunri",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15724059",
+    "imdb": "tt1440147",
+    "tmdb": 888918
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

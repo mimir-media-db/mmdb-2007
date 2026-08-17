@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_maurice_pialat_lamour_existe_2007",
+  "title": "Maurice Pialat, L’amour existe",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106519078",
+    "imdb": "tt1042318",
+    "tmdb": 438075
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-05-30",
+  "runtime_minutes": 81
+}

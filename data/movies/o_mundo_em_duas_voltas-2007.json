@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_o_mundo_em_duas_voltas_2007",
+  "title": "O Mundo Em Duas Voltas",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10339473",
+    "imdb": "tt0973822",
+    "tmdb": 199707
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 92
+}

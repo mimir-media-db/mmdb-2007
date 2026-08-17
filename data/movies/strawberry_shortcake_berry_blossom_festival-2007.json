@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_strawberry_shortcake_berry_blossom_festival_2007",
+  "title": "Strawberry Shortcake: Berry Blossom Festival",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7622483",
+    "imdb": "tt0969754",
+    "tmdb": 50175
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

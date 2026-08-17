@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ossidiana_2007",
+  "title": "Ossidiana",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16585362",
+    "imdb": "tt1342272",
+    "tmdb": 989899
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 98
+}

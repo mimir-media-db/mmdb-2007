@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_clown_2007",
+  "title": "Clown",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20078650",
+    "imdb": "tt1059781",
+    "tmdb": 401559
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

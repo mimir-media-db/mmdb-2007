@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rocket_science_2007",
+  "title": "Rocket Science",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q821753",
+    "imdb": "tt0477078",
+    "tmdb": 13068
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-17",
+  "runtime_minutes": 101
+}

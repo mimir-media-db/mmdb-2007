@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_across_the_universe_2007",
+  "title": "Across the Universe",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q342876",
+    "imdb": "tt0445922",
+    "tmdb": 4688
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-09-14",
+  "runtime_minutes": 131
+}

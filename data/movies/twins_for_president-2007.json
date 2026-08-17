@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_twins_for_president_2007",
+  "title": "Twins for President",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55180098",
+    "imdb": "tt0815459",
+    "tmdb": 138131
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-05-25"
+}

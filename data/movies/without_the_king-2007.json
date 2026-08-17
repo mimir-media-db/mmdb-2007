@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_without_the_king_2007",
+  "title": "Without the King",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8028283",
+    "imdb": "tt0997233",
+    "tmdb": 210903
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 83
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_spin_2007",
+  "title": "Spin",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7577361",
+    "imdb": "tt0490701",
+    "tmdb": 57655
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

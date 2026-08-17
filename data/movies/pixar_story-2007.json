@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pixar_story_2007",
+  "title": "The Pixar Story",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2244246",
+    "imdb": "tt1059955",
+    "tmdb": 15302
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-08-28",
+  "runtime_minutes": 87
+}

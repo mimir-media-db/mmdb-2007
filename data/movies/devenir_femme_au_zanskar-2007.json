@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_devenir_femme_au_zanskar_2007",
+  "title": "Devenir femme au Zanskar",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18611153",
+    "imdb": "tt9683282",
+    "tmdb": 275374
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 86
+}

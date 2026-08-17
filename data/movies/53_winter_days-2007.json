@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_53_winter_days_2007",
+  "title": "53 Winter Days",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3311787",
+    "imdb": "tt0778596",
+    "tmdb": 105423
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-10-23",
+  "runtime_minutes": 91
+}

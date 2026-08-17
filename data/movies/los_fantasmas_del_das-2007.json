@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_los_fantasmas_del_das_2007",
+  "title": "Los fantasmas del DAS",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56241601",
+    "imdb": "tt1160720"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 67
+}

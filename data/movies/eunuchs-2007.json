@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_eunuchs_2007",
+  "title": "Eunuchs",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5409836",
+    "imdb": "tt1002530",
+    "tmdb": 1235981
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-04-03",
+  "runtime_minutes": 105
+}

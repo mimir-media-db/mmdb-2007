@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_productor_2007",
+  "title": "El productor",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q92206887",
+    "imdb": "tt0867406",
+    "tmdb": 740862
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-06-01",
+  "runtime_minutes": 88
+}

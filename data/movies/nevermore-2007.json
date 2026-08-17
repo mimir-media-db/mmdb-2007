@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nevermore_2007",
+  "title": "Nevermore",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12126499",
+    "imdb": "tt0800145",
+    "tmdb": 53055
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

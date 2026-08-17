@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_bed_2007",
+  "title": "In Bed",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3053579",
+    "imdb": "tt0474642",
+    "tmdb": 3041
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-10-25",
+  "runtime_minutes": 85
+}

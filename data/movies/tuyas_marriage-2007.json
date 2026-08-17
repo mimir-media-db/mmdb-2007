@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tuyas_marriage_2007",
+  "title": "Tuya's Marriage",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q430987",
+    "imdb": "tt0949564",
+    "tmdb": 2694
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-08-23",
+  "runtime_minutes": 96
+}

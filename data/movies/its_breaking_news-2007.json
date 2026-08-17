@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_its_breaking_news_2007",
+  "title": "It's Breaking News",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16249358",
+    "imdb": "tt1074201",
+    "tmdb": 109486
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

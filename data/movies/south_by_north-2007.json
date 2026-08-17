@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_south_by_north_2007",
+  "title": "South by North",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11826268",
+    "imdb": "tt0756331",
+    "tmdb": 547370
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-26"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_legend_of_gods_gun_2007",
+  "title": "The Legend of God's Gun",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7746719",
+    "imdb": "tt1073221",
+    "tmdb": 69382
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

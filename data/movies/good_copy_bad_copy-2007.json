@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_good_copy_bad_copy_2007",
+  "title": "Good Copy Bad Copy",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3286160",
+    "imdb": "tt1782451",
+    "tmdb": 22285
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-05-30",
+  "runtime_minutes": 59
+}

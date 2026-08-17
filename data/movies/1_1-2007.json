@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_1_1_2007",
+  "title": "1 : 1",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20493590",
+    "imdb": "tt0465963",
+    "tmdb": 15815
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-05-10",
+  "runtime_minutes": 93
+}

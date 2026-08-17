@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kilometer_zero_2007",
+  "title": "Kilometer Zero",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4327978",
+    "imdb": "tt0854151",
+    "tmdb": 62997
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-10-23",
+  "runtime_minutes": 87
+}

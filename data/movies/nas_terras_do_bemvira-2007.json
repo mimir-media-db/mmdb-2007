@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nas_terras_do_bemvira_2007",
+  "title": "Nas terras do Bem-Virá",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q62835641",
+    "imdb": "tt1091819",
+    "tmdb": 676783
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 111
+}

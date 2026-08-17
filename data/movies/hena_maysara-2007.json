@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hena_maysara_2007",
+  "title": "Hena Maysara",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12209804",
+    "imdb": "tt3334996",
+    "tmdb": 193463
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 127
+}

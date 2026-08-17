@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_for_the_bible_tells_me_so_2007",
+  "title": "For the Bible Tells Me So",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2919284",
+    "imdb": "tt0912583",
+    "tmdb": 15651
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-21",
+  "runtime_minutes": 98
+}

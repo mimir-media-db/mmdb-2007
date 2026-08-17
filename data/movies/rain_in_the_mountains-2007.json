@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rain_in_the_mountains_2007",
+  "title": "Rain in the Mountains",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12127027",
+    "imdb": "tt0826611",
+    "tmdb": 46355
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

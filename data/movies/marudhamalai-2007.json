@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_marudhamalai_2007",
+  "title": "Marudhamalai",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19809674",
+    "imdb": "tt1365485",
+    "tmdb": 66507
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

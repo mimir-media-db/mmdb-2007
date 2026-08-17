@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dark_water_2007",
+  "title": "Dark Water",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13025847",
+    "imdb": "tt2418406",
+    "tmdb": 142525
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-05-17"
+}

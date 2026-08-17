@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_plum_role_2007",
+  "title": "Plum Role",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127600815",
+    "imdb": "tt0990444",
+    "tmdb": 277085
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

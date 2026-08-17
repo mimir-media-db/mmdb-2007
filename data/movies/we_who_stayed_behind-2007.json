@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_we_who_stayed_behind_2007",
+  "title": "We Who Stayed Behind",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20729732",
+    "imdb": "tt1388373",
+    "tmdb": 254330
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 25
+}

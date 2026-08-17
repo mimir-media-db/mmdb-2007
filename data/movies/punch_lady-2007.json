@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_punch_lady_2007",
+  "title": "Punch Lady",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16183799",
+    "imdb": "tt1233488",
+    "tmdb": 40049
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-10-25"
+}

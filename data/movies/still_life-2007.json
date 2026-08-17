@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_still_life_2007",
+  "title": "Still Life",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20002500",
+    "imdb": "tt1097606",
+    "tmdb": 220830
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

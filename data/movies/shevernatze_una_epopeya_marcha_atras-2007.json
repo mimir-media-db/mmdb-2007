@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shevernatze_una_epopeya_marcha_atras_2007",
+  "title": "Shevernatze, una epopeya marcha atrás",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135717388",
+    "imdb": "tt0797067",
+    "tmdb": 246750
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 80
+}

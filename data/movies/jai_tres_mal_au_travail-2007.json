@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jai_tres_mal_au_travail_2007",
+  "title": "J'ai très mal au travail",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108331390",
+    "imdb": "tt7731992"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 90
+}

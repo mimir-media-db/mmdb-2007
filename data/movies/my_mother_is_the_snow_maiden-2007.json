@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_mother_is_the_snow_maiden_2007",
+  "title": "My Mother Is the Snow Maiden",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16707614",
+    "imdb": "tt1775355",
+    "tmdb": 614875
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 90
+}

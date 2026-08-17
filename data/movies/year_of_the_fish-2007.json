@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_year_of_the_fish_2007",
+  "title": "Year of the Fish",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8050913",
+    "imdb": "tt0872236",
+    "tmdb": 160195
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 96
+}

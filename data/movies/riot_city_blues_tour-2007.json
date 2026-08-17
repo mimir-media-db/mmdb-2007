@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_riot_city_blues_tour_2007",
+  "title": "Riot City Blues Tour",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3936313",
+    "imdb": "tt2285671",
+    "tmdb": 439660
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-10-09"
+}

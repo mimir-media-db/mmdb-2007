@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sem_controle_2007",
+  "title": "Sem Controle",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10369829",
+    "imdb": "tt0882782",
+    "tmdb": 43928
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 92
+}

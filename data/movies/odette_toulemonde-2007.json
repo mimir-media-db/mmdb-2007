@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_odette_toulemonde_2007",
+  "title": "Odette Toulemonde",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1509137",
+    "imdb": "tt0486636",
+    "tmdb": 4171
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-10-25",
+  "runtime_minutes": 101
+}

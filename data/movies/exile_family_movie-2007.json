@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_exile_family_movie_2007",
+  "title": "Exile Family Movie",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60873931",
+    "imdb": "tt0893589",
+    "tmdb": 193507
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-16",
+  "runtime_minutes": 94
+}

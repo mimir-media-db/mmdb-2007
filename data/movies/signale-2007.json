@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_signale_2007",
+  "title": "Signale",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10667629",
+    "imdb": "tt0955840"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

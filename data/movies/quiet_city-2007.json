@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_quiet_city_2007",
+  "title": "Quiet City",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7271855",
+    "imdb": "tt0914382",
+    "tmdb": 46883
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

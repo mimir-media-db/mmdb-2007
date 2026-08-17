@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_belarusian_waltz_2007",
+  "title": "Belarusian Waltz",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11960483",
+    "imdb": "tt1258655",
+    "tmdb": 712693
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 73
+}

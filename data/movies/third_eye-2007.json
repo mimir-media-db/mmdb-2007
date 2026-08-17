@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_third_eye_2007",
+  "title": "The Third Eye",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q62512898",
+    "imdb": "tt0952687",
+    "tmdb": 457010
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

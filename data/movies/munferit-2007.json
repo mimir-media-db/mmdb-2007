@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_munferit_2007",
+  "title": "Munferit",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19473417",
+    "imdb": "tt1132171",
+    "tmdb": 37509
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

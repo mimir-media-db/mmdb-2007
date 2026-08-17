@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sikuru_hathe_2007",
+  "title": "Sikuru Hathe",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31799010",
+    "imdb": "tt4871740",
+    "tmdb": 564190
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-08-16"
+}

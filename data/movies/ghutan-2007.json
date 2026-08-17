@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ghutan_2007",
+  "title": "Ghutan",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16840039",
+    "imdb": "tt1087850",
+    "tmdb": 482203
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

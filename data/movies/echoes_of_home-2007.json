@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_echoes_of_home_2007",
+  "title": "Echoes of Home",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q57271135",
+    "imdb": "tt0499034",
+    "tmdb": 85991
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-02-13",
+  "runtime_minutes": 80
+}

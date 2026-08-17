@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bingai_2007",
+  "title": "Bing'ai",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16827333",
+    "imdb": "tt1813183",
+    "tmdb": 414529
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_behind_the_house_2007",
+  "title": "Behind the House",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17769527",
+    "imdb": "tt1345463",
+    "tmdb": 112155
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-04-01",
+  "runtime_minutes": 12
+}

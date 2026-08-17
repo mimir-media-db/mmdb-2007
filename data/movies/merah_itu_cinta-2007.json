@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_merah_itu_cinta_2007",
+  "title": "Merah Itu Cinta",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12498137",
+    "imdb": "tt1063631",
+    "tmdb": 787657
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-08-16",
+  "runtime_minutes": 108
+}

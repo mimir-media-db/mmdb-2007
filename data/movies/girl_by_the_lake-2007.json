@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_girl_by_the_lake_2007",
+  "title": "The Girl by the Lake",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13478818",
+    "imdb": "tt0770829",
+    "tmdb": 42411
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 95
+}

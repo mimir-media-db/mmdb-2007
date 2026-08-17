@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_compilation_12_instants_damour_non_partage_2007",
+  "title": "Compilation, 12 instants d'amour non partagé",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116439017",
+    "imdb": "tt1071207",
+    "tmdb": 626164
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 43
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_virgin_wildsides_2007",
+  "title": "The Virgin Wildsides",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q86738019",
+    "imdb": "tt1139645",
+    "tmdb": 604526
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-08-25"
+}

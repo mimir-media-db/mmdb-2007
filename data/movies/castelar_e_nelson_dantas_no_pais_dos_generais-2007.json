@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_castelar_e_nelson_dantas_no_pais_dos_generais_2007",
+  "title": "Castelar e Nelson Dantas no País dos Generais",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9703642",
+    "imdb": "tt1392116",
+    "tmdb": 256183
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 73
+}

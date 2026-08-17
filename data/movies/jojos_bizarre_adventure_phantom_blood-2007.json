@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jojos_bizarre_adventure_phantom_blood_2007",
+  "title": "JoJo's Bizarre Adventure: Phantom Blood",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17151916",
+    "imdb": "tt6490990",
+    "tmdb": 387470
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 100
+}

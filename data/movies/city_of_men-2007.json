@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_city_of_men_2007",
+  "title": "City of Men",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1910645",
+    "imdb": "tt0870090",
+    "tmdb": 7343
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-08-31",
+  "runtime_minutes": 110
+}

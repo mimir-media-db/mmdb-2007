@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_paper_prince_2007",
+  "title": "Paper Prince",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12757861",
+    "imdb": "tt1215513",
+    "tmdb": 315612
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-08-24"
+}

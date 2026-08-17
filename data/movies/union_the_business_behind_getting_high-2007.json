@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_union_the_business_behind_getting_high_2007",
+  "title": "The Union: The Business Behind Getting High",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7771543",
+    "imdb": "tt1039647",
+    "tmdb": 36443
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

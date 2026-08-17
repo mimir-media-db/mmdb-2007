@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ahlam_el_fata_el_taesh_2007",
+  "title": "Ahlam El Fata El Taesh",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12178433",
+    "imdb": "tt1059888",
+    "tmdb": 88621
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

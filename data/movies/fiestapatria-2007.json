@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fiestapatria_2007",
+  "title": "Fiestapatria",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5669532",
+    "imdb": "tt0808267",
+    "tmdb": 93941
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-04-26",
+  "runtime_minutes": 100
+}

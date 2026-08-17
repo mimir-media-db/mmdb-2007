@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_atheetham_2007",
+  "title": "Atheetham",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19570913"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_twilight_phantom_2007",
+  "title": "Twilight Phantom",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11283130",
+    "imdb": "tt0972543",
+    "tmdb": 209518
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 97
+}

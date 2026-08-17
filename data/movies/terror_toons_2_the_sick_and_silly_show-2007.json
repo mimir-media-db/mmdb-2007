@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_terror_toons_2_the_sick_and_silly_show_2007",
+  "title": "Terror Toons 2: The Sick and Silly Show",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7703865",
+    "imdb": "tt0362230",
+    "tmdb": 27752
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 76
+}

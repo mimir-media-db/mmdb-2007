@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_right_on_2007",
+  "title": "Right On",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10350673",
+    "imdb": "tt0768177",
+    "tmdb": 110262
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 96
+}

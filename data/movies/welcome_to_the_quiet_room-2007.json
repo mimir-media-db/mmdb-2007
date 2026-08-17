@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_welcome_to_the_quiet_room_2007",
+  "title": "Welcome to the Quiet Room",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2362509",
+    "imdb": "tt0997174",
+    "tmdb": 39011
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-10-20",
+  "runtime_minutes": 118
+}

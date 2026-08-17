@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tv_set_2007",
+  "title": "The TV Set",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q348275",
+    "imdb": "tt0473709",
+    "tmdb": 17320
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-04-06",
+  "runtime_minutes": 85
+}

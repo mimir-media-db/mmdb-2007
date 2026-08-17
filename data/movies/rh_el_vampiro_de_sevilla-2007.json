@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rh_el_vampiro_de_sevilla_2007",
+  "title": "RH+, el vampiro de Sevilla",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6095738",
+    "imdb": "tt11608100",
+    "tmdb": 588381
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-12-08",
+  "runtime_minutes": 80
+}

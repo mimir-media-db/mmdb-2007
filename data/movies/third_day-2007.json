@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_third_day_2007",
+  "title": "The Third Day",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5947224",
+    "imdb": "tt1068664",
+    "tmdb": 428568
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-02-01"
+}

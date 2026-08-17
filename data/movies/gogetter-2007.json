@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gogetter_2007",
+  "title": "The Go-Getter",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3521061",
+    "imdb": "tt0479289",
+    "tmdb": 9867
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-22",
+  "runtime_minutes": 93
+}

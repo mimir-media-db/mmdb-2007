@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rocky_balboa_2007",
+  "title": "Rocky Balboa",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q724455",
+    "imdb": "tt0479143",
+    "tmdb": 1246
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-19",
+  "runtime_minutes": 102
+}

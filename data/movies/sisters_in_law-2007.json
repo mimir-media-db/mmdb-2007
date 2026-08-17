@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sisters_in_law_2007",
+  "title": "Sisters in Law",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16949976",
+    "imdb": "tt0474361",
+    "tmdb": 87943
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-09-13",
+  "runtime_minutes": 104
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_saintjacques_la_mecque_2007",
+  "title": "Saint-Jacques... La Mecque",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2212493",
+    "imdb": "tt0429052",
+    "tmdb": 5171
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-09-06",
+  "runtime_minutes": 103
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_skeletons_in_the_closet_2007",
+  "title": "Skeletons in the Closet",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16184882",
+    "imdb": "tt0984055",
+    "tmdb": 52585
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-03-01"
+}

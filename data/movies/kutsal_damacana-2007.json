@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kutsal_damacana_2007",
+  "title": "Kutsal Damacana",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12810477",
+    "imdb": "tt1092011",
+    "tmdb": 53298
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

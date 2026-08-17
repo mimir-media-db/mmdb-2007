@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cherche_fiance_tous_frais_payes_2007",
+  "title": "Cherche fiancé tous frais payés",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2962716",
+    "imdb": "tt0486497",
+    "tmdb": 19619
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-06-27",
+  "runtime_minutes": 92
+}

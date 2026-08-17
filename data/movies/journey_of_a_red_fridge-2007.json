@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_journey_of_a_red_fridge_2007",
+  "title": "Journey of a Red Fridge",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15052398",
+    "imdb": "tt1213587",
+    "tmdb": 235249
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 52
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lady_chatterley_2007",
+  "title": "Lady Chatterley",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q151751",
+    "imdb": "tt0459880",
+    "tmdb": 3542
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-10-04",
+  "runtime_minutes": 168
+}

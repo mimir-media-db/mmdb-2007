@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_page_turner_2007",
+  "title": "The Page Turner",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1169811",
+    "imdb": "tt0487503",
+    "tmdb": 8436
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-05-03",
+  "runtime_minutes": 85
+}

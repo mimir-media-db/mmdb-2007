@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_children_2007",
+  "title": "Children",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13632074",
+    "imdb": "tt0872094",
+    "tmdb": 72558
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-12-25",
+  "runtime_minutes": 93
+}

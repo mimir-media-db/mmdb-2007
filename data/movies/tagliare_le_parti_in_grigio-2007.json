@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tagliare_le_parti_in_grigio_2007",
+  "title": "Tagliare le parti in grigio",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56867965",
+    "imdb": "tt1981694"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 93
+}

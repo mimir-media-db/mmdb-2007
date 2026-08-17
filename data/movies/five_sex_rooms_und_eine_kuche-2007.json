@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_five_sex_rooms_und_eine_kuche_2007",
+  "title": "Five Sex Rooms und eine Küche",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61237165",
+    "imdb": "tt1440173",
+    "tmdb": 12451
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-11-23",
+  "runtime_minutes": 79
+}

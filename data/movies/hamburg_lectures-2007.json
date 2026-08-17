@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hamburg_lectures_2007",
+  "title": "Hamburg Lectures",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1348887",
+    "imdb": "tt0772851",
+    "tmdb": 405721
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-09-20",
+  "runtime_minutes": 133
+}
