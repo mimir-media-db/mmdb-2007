@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_art_of_crying_2007",
+  "title": "The Art of Crying",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q342637",
+    "imdb": "tt0495040",
+    "tmdb": 15776
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-28",
+  "runtime_minutes": 107
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_argentine_babaa_2007",
+  "title": "Argentine Babaa",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137297133",
+    "imdb": "tt0910835",
+    "tmdb": 477662
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-03-24"
+}

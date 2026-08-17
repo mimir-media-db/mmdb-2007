@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_awarapan_2007",
+  "title": "Awarapan",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4829827",
+    "imdb": "tt1020937",
+    "tmdb": 22448
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-06-29"
+}
