@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_thieves_like_us",
+  "title": "Thieves Like Us",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q7784102",
+    "imdb": "tt0942806",
+    "tmdb": 3640
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

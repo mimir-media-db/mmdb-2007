@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_torsdag_kveld_med_steinar_sagen",
+  "title": "Torsdag kveld med Steinar Sagen",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12007131",
+    "imdb": "tt1264806",
+    "tmdb": 95524
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 7
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_ten_brothers",
+  "title": "Ten Brothers",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q7699162",
+    "imdb": "tt0988053",
+    "tmdb": 3790
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 20
+}

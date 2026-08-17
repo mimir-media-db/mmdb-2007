@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_tim_and_eric_awesome_show_great_job",
+  "title": "Tim and Eric Awesome Show, Great Job!",
+  "start_year": 2007,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q7804540",
+    "imdb": "tt0912343",
+    "tmdb": 1229
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 50
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_true_pulp_murder",
+  "title": "True Pulp Murder",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7847506",
+    "imdb": "tt1051969",
+    "tmdb": 14005
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 13
+}

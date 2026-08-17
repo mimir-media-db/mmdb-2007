@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_tori_dean_home_sweet_hollywood",
+  "title": "Tori & Dean: Home Sweet Hollywood",
+  "start_year": 2007,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q7825739",
+    "imdb": "tt0896781",
+    "tmdb": 4676
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 59
+}
