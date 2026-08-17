@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_theresa_the_body_of_christ_2007",
+  "title": "Theresa: The Body of Christ",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9086110",
+    "imdb": "tt0458500",
+    "tmdb": 80540
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 104
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_twin_rivers_2007",
+  "title": "Twin Rivers",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7858279",
+    "imdb": "tt1084746",
+    "tmdb": 1185613
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

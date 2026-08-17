@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_taliihantala_1944_2007",
+  "title": "Tali-Ihantala 1944",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1897674",
+    "imdb": "tt0378848",
+    "tmdb": 49322
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-12-07",
+  "runtime_minutes": 116
+}

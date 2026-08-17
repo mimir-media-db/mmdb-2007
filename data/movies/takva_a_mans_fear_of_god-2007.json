@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_takva_a_mans_fear_of_god_2007",
+  "title": "Takva: A Man's Fear of God",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q832180",
+    "imdb": "tt0499262",
+    "tmdb": 4887
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-11-15",
+  "runtime_minutes": 96
+}

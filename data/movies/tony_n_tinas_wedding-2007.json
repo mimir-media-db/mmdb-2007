@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tony_n_tinas_wedding_2007",
+  "title": "Tony n' Tina's Wedding",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21884126",
+    "imdb": "tt0375145",
+    "tmdb": 54771
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-11-30"
+}

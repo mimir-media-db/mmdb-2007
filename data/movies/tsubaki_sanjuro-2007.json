@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tsubaki_sanjuro_2007",
+  "title": "Tsubaki Sanjuro",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11540987",
+    "imdb": "tt0905366",
+    "tmdb": 288509
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

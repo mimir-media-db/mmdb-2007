@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_towncraft_2007",
+  "title": "Towncraft",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7830088",
+    "imdb": "tt1023142",
+    "tmdb": 316097
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-05-18",
+  "runtime_minutes": 104
+}

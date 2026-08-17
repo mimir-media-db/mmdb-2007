@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tokyo_tower_mom_and_me_and_sometimes_dad_2007",
+  "title": "Tokyo Tower: Mom and Me, and Sometimes Dad",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5358546",
+    "imdb": "tt0820158",
+    "tmdb": 40079
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-04-14",
+  "runtime_minutes": 142
+}
