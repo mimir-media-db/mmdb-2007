@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vida_de_familia_2007",
+  "title": "Vida de familia",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6161657",
+    "imdb": "tt1029170",
+    "tmdb": 621089
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-05-01",
+  "runtime_minutes": 92
+}

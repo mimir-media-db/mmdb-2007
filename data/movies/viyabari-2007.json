@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_viyabari_2007",
+  "title": "Viyabari",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7937978",
+    "imdb": "tt3011164",
+    "tmdb": 77097
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

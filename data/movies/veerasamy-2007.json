@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_veerasamy_2007",
+  "title": "Veerasamy",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12943321",
+    "imdb": "tt10168650",
+    "tmdb": 864714
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

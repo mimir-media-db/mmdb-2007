@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vse_dolzhny_umeret_2007",
+  "title": "Vse Dolzhny Umeret'",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139574082",
+    "imdb": "tt34747067"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-11-24",
+  "runtime_minutes": 119
+}
