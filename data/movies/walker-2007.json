@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_walker_2007",
+  "title": "The Walker",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q468173",
+    "imdb": "tt0783608",
+    "tmdb": 13251
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 107
+}

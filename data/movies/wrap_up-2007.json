@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wrap_up_2007",
+  "title": "Wrap Up",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5655408",
+    "imdb": "tt0836632",
+    "tmdb": 127437
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 90
+}

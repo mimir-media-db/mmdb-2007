@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_white_diamond_a_personal_portrait_of_kylie_minogue_2007",
+  "title": "White Diamond: A Personal Portrait of Kylie Minogue",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2733930",
+    "imdb": "tt1132195",
+    "tmdb": 58073
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 118
+}

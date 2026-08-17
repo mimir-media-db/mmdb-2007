@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_white_noise_the_light_2007",
+  "title": "White Noise: The Light",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q631488",
+    "imdb": "tt0496436",
+    "tmdb": 7006
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 99
+}

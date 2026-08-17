@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_winter_tale_2007",
+  "title": "A Winter Tale",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4660670",
+    "imdb": "tt0494291",
+    "tmdb": 343898
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

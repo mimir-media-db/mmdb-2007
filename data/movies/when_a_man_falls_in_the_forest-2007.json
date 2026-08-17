@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_when_a_man_falls_in_the_forest_2007",
+  "title": "When a Man Falls in the Forest",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q211701",
+    "imdb": "tt0468965",
+    "tmdb": 24059
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 86
+}
