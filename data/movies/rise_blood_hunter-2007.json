@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rise_blood_hunter_2007",
+  "title": "Rise: Blood Hunter",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q248562",
+    "imdb": "tt0389328",
+    "tmdb": 1872
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 96
+}

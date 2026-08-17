@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ripple_effect_2007",
+  "title": "Ripple Effect",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6109073",
+    "imdb": "tt0479140",
+    "tmdb": 16294
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 87
+}
