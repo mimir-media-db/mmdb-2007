@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_juana_tenia_el_pelo_de_oro_2007",
+  "title": "Juana tenía el pelo de oro",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52248972",
+    "imdb": "tt0257820",
+    "tmdb": 375856
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 74
+}
