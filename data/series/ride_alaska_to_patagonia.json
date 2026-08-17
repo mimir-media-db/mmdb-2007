@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_ride_alaska_to_patagonia",
+  "title": "The Ride: Alaska to Patagonia",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123901056",
+    "imdb": "tt1563109"
+  },
+  "last_updated": "2026-08-17"
+}

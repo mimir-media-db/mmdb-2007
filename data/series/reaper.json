@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_reaper",
+  "title": "Reaper",
+  "start_year": 2007,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q2134985",
+    "imdb": "tt0955322",
+    "tmdb": 5107
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 31
+}

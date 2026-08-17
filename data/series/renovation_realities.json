@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_renovation_realities",
+  "title": "Renovation Realities",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123250804",
+    "imdb": "tt1328346",
+    "tmdb": 29101
+  },
+  "last_updated": "2026-08-17"
+}

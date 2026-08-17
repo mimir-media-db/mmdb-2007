@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_rain_shadow",
+  "title": "Rain Shadow",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q7284485",
+    "imdb": "tt1116560",
+    "tmdb": 13250
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

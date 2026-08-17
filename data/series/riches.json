@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_riches",
+  "title": "The Riches",
+  "start_year": 2007,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q1809842",
+    "imdb": "tt0496343",
+    "tmdb": 2933
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

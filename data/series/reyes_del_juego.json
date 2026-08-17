@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_reyes_del_juego",
+  "title": "Reyes del juego",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q4233785",
+    "imdb": "tt4353546",
+    "tmdb": 117495
+  },
+  "last_updated": "2026-08-17"
+}

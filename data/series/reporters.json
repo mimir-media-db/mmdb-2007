@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_reporters",
+  "title": "Reporters",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3427274",
+    "imdb": "tt1017813",
+    "tmdb": 37892
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 18
+}
