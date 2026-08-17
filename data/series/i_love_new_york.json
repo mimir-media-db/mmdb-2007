@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_i_love_new_york",
+  "title": "I Love New York",
+  "start_year": 2007,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q1655223",
+    "imdb": "tt0885435",
+    "tmdb": 893
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 25
+}

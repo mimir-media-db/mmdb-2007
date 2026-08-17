@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_inas_nacht",
+  "title": "Inas Nacht",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1449117",
+    "imdb": "tt1147079",
+    "tmdb": 46112
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 14,
+  "total_episodes": 203
+}

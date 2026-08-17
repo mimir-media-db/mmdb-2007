@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ilha_dos_amores",
+  "title": "Ilha dos Amores",
+  "start_year": 2007,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q18363125",
+    "imdb": "tt0951898",
+    "tmdb": 218443
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 214
+}

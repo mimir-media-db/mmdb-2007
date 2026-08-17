@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_impostora",
+  "title": "Impostora",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q6007522",
+    "imdb": "tt1010358",
+    "tmdb": 4809
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 80
+}

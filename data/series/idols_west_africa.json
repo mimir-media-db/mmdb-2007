@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_idols_west_africa",
+  "title": "Idols West Africa",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5989488"
+  },
+  "last_updated": "2026-08-17"
+}

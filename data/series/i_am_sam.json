@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_i_am_sam",
+  "title": "I Am Sam",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q3790042",
+    "imdb": "tt2121968",
+    "tmdb": 14464
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

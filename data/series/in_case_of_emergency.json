@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_in_case_of_emergency",
+  "title": "In Case of Emergency",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q2352002",
+    "imdb": "tt0491296",
+    "tmdb": 1784
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}
