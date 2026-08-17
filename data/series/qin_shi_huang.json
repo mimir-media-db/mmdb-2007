@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_qin_shi_huang",
+  "title": "Qin Shi Huang",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q7267765",
+    "tmdb": 32076
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 32
+}
