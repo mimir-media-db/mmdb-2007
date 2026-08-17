@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bridge_to_terabithia_2007",
+  "title": "Bridge to Terabithia",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q279274",
+    "imdb": "tt0398808",
+    "tmdb": 1265
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-02-16",
+  "runtime_minutes": 95
+}

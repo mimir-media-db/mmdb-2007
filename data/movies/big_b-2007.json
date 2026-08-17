@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_big_b_2007",
+  "title": "Big B",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4904962",
+    "imdb": "tt0973783",
+    "tmdb": 79634
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-04-14"
+}

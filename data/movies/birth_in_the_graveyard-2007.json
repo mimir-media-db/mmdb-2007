@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_birth_in_the_graveyard_2007",
+  "title": "Birth in the Graveyard",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12475875",
+    "imdb": "tt1233591",
+    "tmdb": 522057
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-12-19",
+  "runtime_minutes": 96
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bangkok_love_story_2007",
+  "title": "Bangkok Love Story",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1340390",
+    "imdb": "tt1135961",
+    "tmdb": 47547
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-09-13",
+  "runtime_minutes": 110
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_banishment_2007",
+  "title": "The Banishment",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q512070",
+    "imdb": "tt0488905",
+    "tmdb": 25142
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-05-18",
+  "runtime_minutes": 157
+}

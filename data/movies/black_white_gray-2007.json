@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_black_white_gray_2007",
+  "title": "Black White + Gray",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23767824",
+    "imdb": "tt1003113",
+    "tmdb": 171859
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-05-01"
+}

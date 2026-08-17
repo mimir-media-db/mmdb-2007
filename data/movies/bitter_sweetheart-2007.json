@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bitter_sweetheart_2007",
+  "title": "Bitter Sweetheart",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10562414",
+    "imdb": "tt0982893",
+    "tmdb": 83690
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}
