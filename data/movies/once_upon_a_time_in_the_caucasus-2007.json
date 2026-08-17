@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_once_upon_a_time_in_the_caucasus_2007",
+  "title": "Once Upon a Time in the Caucasus",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4331666",
+    "imdb": "tt25814926",
+    "tmdb": 1071449
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 110
+}

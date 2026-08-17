@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_operation_desert_stormy_2007",
+  "title": "Operation: Desert Stormy",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1738630",
+    "imdb": "tt1111387",
+    "tmdb": 70674
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 180
+}

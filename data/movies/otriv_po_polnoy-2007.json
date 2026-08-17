@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_otriv_po_polnoy_2007",
+  "title": "Otriv po polnoy",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4338199",
+    "imdb": "tt1139804",
+    "tmdb": 57779
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 85
+}
