@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_freelance_2007",
+  "title": "Freelance",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5500944",
+    "imdb": "tt1074961",
+    "tmdb": 245820
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

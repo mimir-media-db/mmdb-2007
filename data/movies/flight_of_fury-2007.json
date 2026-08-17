@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_flight_of_fury_2007",
+  "title": "Flight of Fury",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1809761",
+    "imdb": "tt0783518",
+    "tmdb": 24351
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 98
+}
