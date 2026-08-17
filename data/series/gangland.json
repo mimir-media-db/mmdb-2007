@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_gangland",
+  "title": "Gangland",
+  "start_year": 2007,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q1336687",
+    "imdb": "tt1243719",
+    "tmdb": 6947
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 87
+}

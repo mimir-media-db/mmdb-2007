@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_graham_norton_show",
+  "title": "The Graham Norton Show",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4808583",
+    "imdb": "tt0924651",
+    "tmdb": 1220
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 30,
+  "total_episodes": 505
+}

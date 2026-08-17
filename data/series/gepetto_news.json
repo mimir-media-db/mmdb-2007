@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_gepetto_news",
+  "title": "Gepetto News",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12313763",
+    "imdb": "tt1132509",
+    "tmdb": 281526
+  },
+  "last_updated": "2026-08-17"
+}

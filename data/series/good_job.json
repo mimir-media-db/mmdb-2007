@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_good_job",
+  "title": "グッジョブ -Good job-",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q140480599",
+    "tmdb": 127820
+  },
+  "last_updated": "2026-08-17"
+}

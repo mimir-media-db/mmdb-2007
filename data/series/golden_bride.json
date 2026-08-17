@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_golden_bride",
+  "title": "Golden Bride",
+  "start_year": 2007,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q491382",
+    "tmdb": 18376
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 64
+}

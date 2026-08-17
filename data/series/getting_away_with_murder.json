@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_getting_away_with_murder",
+  "title": "Getting Away with Murder",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5554585",
+    "imdb": "tt1014712",
+    "tmdb": 19117
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1
+}

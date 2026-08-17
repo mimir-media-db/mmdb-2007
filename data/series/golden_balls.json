@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_golden_balls",
+  "title": "Golden Balls",
+  "start_year": 2007,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q5579178",
+    "imdb": "tt1186336",
+    "tmdb": 14367
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 288
+}
