@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zhizn_vrasplokh_2007",
+  "title": "Zhizn vrasplokh",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4180202",
+    "imdb": "tt0766224",
+    "tmdb": 159991
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-07-26",
+  "runtime_minutes": 79
+}

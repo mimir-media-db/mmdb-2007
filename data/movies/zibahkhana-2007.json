@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zibahkhana_2007",
+  "title": "Zibahkhana",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8071437",
+    "imdb": "tt0887973",
+    "tmdb": 54704
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 77
+}
