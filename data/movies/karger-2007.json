@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_karger_2007",
+  "title": "Karger",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59166526",
+    "imdb": "tt0991160",
+    "tmdb": 402235
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-18",
+  "runtime_minutes": 88
+}

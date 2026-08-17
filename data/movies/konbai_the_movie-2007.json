@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_konbai_the_movie_2007",
+  "title": "Konbai the Movie",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16499934",
+    "imdb": "tt3230058",
+    "tmdb": 912249
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

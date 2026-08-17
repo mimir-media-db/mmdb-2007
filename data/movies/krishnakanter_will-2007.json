@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_krishnakanter_will_2007",
+  "title": "Krishnakanter Will",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137691032",
+    "imdb": "tt4772974",
+    "tmdb": 440403
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-10-04"
+}

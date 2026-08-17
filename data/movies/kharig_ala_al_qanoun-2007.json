@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kharig_ala_al_qanoun_2007",
+  "title": "Kharig Ala Al Qanoun",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12209832",
+    "imdb": "tt2605454",
+    "tmdb": 405889
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-12-20",
+  "runtime_minutes": 113
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kansas_vs_darwin_2007",
+  "title": "Kansas vs. Darwin",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16252158",
+    "imdb": "tt1098212",
+    "tmdb": 773429
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}
