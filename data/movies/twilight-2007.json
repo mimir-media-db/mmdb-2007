@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_twilight_2007",
+  "title": "Twilight",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3206905",
+    "imdb": "tt1147720",
+    "tmdb": 256153
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01"
+}

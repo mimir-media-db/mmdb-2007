@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tutte_le_donne_della_mia_vita_2007",
+  "title": "Tutte le donne della mia vita",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4000769",
+    "imdb": "tt1014691",
+    "tmdb": 43292
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 105
+}

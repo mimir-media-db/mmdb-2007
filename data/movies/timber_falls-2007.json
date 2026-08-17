@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_timber_falls_2007",
+  "title": "Timber Falls",
+  "year": 2007,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6027056",
+    "imdb": "tt0857295",
+    "tmdb": 8875
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2007-01-01",
+  "runtime_minutes": 100
+}
